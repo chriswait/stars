@@ -1,0 +1,3475 @@
+{'image/1212/gegenschein_eso_1200.jpg': {'url': 'http://apod.nasa.gov/apod/ap121202.html', 'timestamp': u'2012 December 2 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/gegenschein_eso_1200.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Is the night sky darkest in the direction <i>opposite</i> the Sun?
+
+No.  In fact, a rarely discernable faint glow known as 
+<a href="http://www.as.wvu.edu/~jel/skywatch/skw9810h.html">the gegenschein</a> (German for "counter glow") can be seen 180 
+degrees around from the Sun in an extremely dark sky.
+
+The gegenschein is sunlight back-scattered off small interplanetary
+<a href="ap010813.html">dust</a> particles.  
+
+These dust particles are millimeter sized splinters from 
+<a href="ap980712.html">asteroids</a> and orbit in the 
+<a href="ap990529.html">ecliptic plane</a> of the planets. 
+
+<a href="http://www.eso.org/public/images/eso0812d/">Pictured above</a> from 2008 October is one of the more spectacular pictures of 
+<a href="http://en.wikipedia.org/wiki/Gegenschein">the gegenschein</a> yet taken.
+
+Here a deep exposure of an extremely dark sky over 
+<a href="http://www.eso.org/paranal/">Paranal Observatory</a> in 
+<a href="http://en.wikipedia.org/wiki/Chile">Chile</a> shows 
+the gegenschein so clearly that even a surrounding glow is visible.   
+
+In the foreground are several of the 
+<a href="http://www.eso.org/public/">European Southern Observatory</a>'s
+<a href="ap000707.html">Very Large Telescopes</a>, 
+while notable background objects include the 
+<a href="ap061126.html">Andromeda galaxy</a> toward the lower left and the 
+<a href="ap060109.html">Pleiades</a> star cluster just above the horizon.  
+
+<a href="http://io9.com/5662511/gegenschein-the-glowing-circle-in-the-sky">The gegenschein</a> 
+is distinguished from <a href="ap040825.html">zodiacal light</a> near the Sun by the 
+high angle of reflection.  
+
+During the day, a phenomenon similar to 
+<a href="http://adsabs.harvard.edu/abs/1997MNRAS.288.1022J">the gegenschein</a> called <a href="ap020417.html">the glory</a> can 
+be seen in reflecting air or clouds opposite the Sun from an airplane. 
+
+
+</p>, 'title': u' The Gegenschein Over Chile '}, 'image/1212/22466-22467anaVantuyne.jpg': {'url': 'http://apod.nasa.gov/apod/ap121213.html', 'timestamp': u'2012 December 13', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/22466-22467anaVantuyne.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Get out your
+<a href="http://photojournal.jpl.nasa.gov/Help/
+VendorList.html#Glasses">red/blue glasses</a> and
+check out this awesome stereo view of another world.
+
+<a href="http://www.hq.nasa.gov/office/pao/History/alsj/a17/
+a17.html">The scene was recorded</a>
+by Apollo 17 mission commander
+Eugene Cernan on December 11, 1972,
+one orbit before descending to land on the Moon.
+
+The stereo anaglyph was assembled from two photographs
+(<a href="http://www.hq.nasa.gov/office/pao/History/alsj/a17/
+images17.html">AS17-147-22465, AS17-147-22466</a>)
+captured from his vantage point on board the 
+<a href="ap060107.html">Lunar Module</a> Challenger as he
+and Dr. Harrison Schmitt flew over Apollo 17's
+<a href="ap110908.html">landing site</a> in the
+<a href="http://www.hq.nasa.gov/alsj/a17/a17OTM.html">Taurus-Littrow
+Valley</a>.
+
+The broad, sunlit face of the mountain dubbed
+South Massif rises near the center
+<a href="http://www.hq.nasa.gov/office/pao/History/alsj/a17/
+a17.22465lbl.jpg">of the frame</a>, above the dark floor of
+Taurus-Littrow to its left.
+
+Beyond the mountains, toward the lunar limb, lies the Moon's
+<a href="ap090206.html">Mare Serenitatis</a>.
+
+Piloted by Ron Evans, the Command Module America is
+visible in orbit in the foreground against the
+<a href="ap071214.html">South Massif's peak</a>.
+
+</p>, 'title': u' Apollo 17: A Stereo View from Lunar Orbit '}, 'image/1212/sunpillar_strand_2000.jpg': {'url': 'http://apod.nasa.gov/apod/ap121218.html', 'timestamp': u'2012 December 18 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/sunpillar_strand_2000.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Have you ever seen a 
+<a href="http://www.atoptics.co.uk/halo/pillar.htm">sun pillar</a>? 
+
+When the air is cold and the Sun is rising or 
+<a href="ap980526.html">setting</a>, falling ice
+<a href="http://en.wikipedia.org/wiki/Crystal">crystals</a> 
+can reflect sunlight and create an 
+<a href="ap021110.html">unusual</a> column of light.  
+
+Ice sometimes forms flat, six-sided
+<a href="http://www.its.caltech.edu/~atomic/snowcrystals/primer/primer.htm">shaped crystals</a> as it falls from high-level
+<a href="http://eo.ucar.edu/webweather/cloud3.html">clouds</a>. 
+
+<a href="http://www.physicsclassroom.com/mmedia/newtlaws/efar.cfm">Air resistance</a> causes these crystals to lie nearly 
+flat much of the time as they flutter to the ground.  
+
+Sunlight reflects off crystals that are 
+<a href="ap020902.html">properly aligned</a>, creating the 
+<a href="http://en.wikipedia.org/wiki/Sun_pillar">sun-pillar</a> 
+effect.  
+
+In the 
+<a href="http://blogg.astrofotografen.se/2012/12/solpelare.html">above picture</a> 
+taken last week, a 
+<a href="http://antwrp.gsfc.nasa.gov/cgi-bin/apod/apod_search?sun+pillar">sun-pillar</a> reflects light from a Sun setting over 
+<a href="http://en.wikipedia.org/wiki/%C3%96stersund">Östersund</a>,
+<a href="http://en.wikipedia.org/wiki/Sweden">Sweden</a>. 
+
+
+</p>, 'title': u' A Sun Pillar Over Sweden '}, 'image/1211/2012-11_CygnusHPd_2k.jpg': {'url': 'http://apod.nasa.gov/apod/ap121130.html', 'timestamp': u'2012 November 30', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/2012-11_CygnusHPd_2k.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap101119.html">Cosmic clouds of gas and dust</a>
+drift across this magnificent
+mosaic covering a 12x12 degree field within the
+<a href="ap100625.html">high flying</a> constellation Cygnus.
+
+The collaborative skyscape, a combination of broad and narrow
+band image data presented in the
+<a href="http://hubblesite.org/gallery/behind_the_pictures/
+meaning_of_color/eagle.php">Hubble palette</a>, is anchored by
+bright, hot, supergiant
+<a href="http://stars.astro.illinois.edu/sow/deneb.html">star Deneb</a>,
+below center near the left edge.
+
+Alpha star of Cygnus, Deneb, is the top of the Northern Cross asterism
+and is seen here next to the dark void known as the Northern Coal Sack.
+
+Below Deneb are the recognizable
+<a href="ap101218.html">North America and Pelican</a> nebulae
+(NGC 7000 and IC 5070).
+
+Another supergiant star, Sadr (Gamma Cygni)
+is <a href="ap070104.html">near the center</a> of the field
+just above the bright wings of the Butterfly Nebula.
+
+A line continuing up and right will encounter
+the more compact <a href="ap120816.html">Crescent Nebula</a> and finally
+the <a href="ap120726.html">Tulip Nebula</a> near the
+top of the frame.
+
+Most of these complex nebulosities are located
+about 2,000 light-years away.
+
+Along with the Sun, they lie in the
+<a href="http://www.atlasoftheuniverse.com/5000lys.html">Orion
+spiral arm</a> of our Milky Way galaxy. 
+
+</p>, 'title': u' Clouds in Cygnus '}, 'image/1210/mammatus_lindsay_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121023.html', 'timestamp': u'2012 October 23 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/mammatus_lindsay_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://www.newton.dep.anl.gov/askasci/wea00/wea00041.htm">Normal cloud bottoms are flat</a>.
+
+This is because moist warm air
+that rises and cools will <a href="http://www.weatherquestions.com/What_are_condensation_nuclei.htm">condense</a> into water droplets at a specific temperature, 
+which usually corresponds to a very specific height.  
+
+As water
+<a href="http://earthobservatory.nasa.gov/Library/GlobalClouds/">droplets grow</a>, an opaque cloud forms.  
+
+Under some conditions, however, <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/cldtyp/home.rxml">cloud</a> pockets can develop that contain large droplets 
+of water or ice that fall into clear air as they evaporate.  
+
+Such <a href="http://en.wikipedia.org/wiki/Pocket">pockets</a> may occur in 
+<a href="http://en.wikipedia.org/wiki/Turbulence">turbulent</a> air near a
+<a href="ap101130.html">thunderstorm</a>. 
+
+Resulting <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/cld/cldtyp/oth/mm.rxml">mammatus clouds</a> can appear especially 
+<a href="http://www.youtube.com/watch?v=Mt0zXfEktuQ">dramatic</a>
+if sunlit from the side.  
+
+These
+<a href="http://en.wikipedia.org/wiki/Mammatus_clouds">mammatus clouds</a> were photographed over
+<a href="http://en.wikipedia.org/wiki/Regina,_Saskatchewan">Regina, Saskatchewan</a>, 
+<a href="http://en.wikipedia.org/wiki/Canada">Canada</a>
+during the past summer.
+
+
+</p>, 'title': u' Mammatus Clouds Over Saskatchewan '}, 'image/1211/Ju2012tezelLa.jpg': {'url': 'http://apod.nasa.gov/apod/ap121127.html', 'timestamp': u'2012 November 27', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/Ju2012tezelLa.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+That bright star you've recently
+noticed rising just after sunset isn't a star at all.
+
+<a href="http://solarsystem.nasa.gov/planets/
+profile.cfm?Object=Jupiter&amp;Display=OverviewLong">It's Jupiter</a>,
+the solar system's ruling gas giant.
+
+Bright Jupiter is nearing its December 3rd opposition when it will stand
+in Taurus,
+<a href="http://astronomy.swin.edu.au/cosmos/O/Opposition">opposite the Sun</a> in planet Earth's sky.
+
+<a href="http://www.twanight.org/newTWAN/photos.asp?ID=3003811">Clearly
+outshining</a> yellowish Aldebaran, alpha star of Taurus, Jupiter
+is centered in this skyview from November 14th, also featuring the
+<a href="ap111117.html">Pleiades and Hyades</a> star clusters,
+familiar celestial sights as the northern hemisphere winter approaches.
+
+Sliding your cursor over the image will label the scene and identify
+two other solar system worlds approaching their opposition in December.
+
+Small and faint, asteroid Vesta and dwarf planet Ceres are about
+10 degrees from Jupiter, near the left edge of the frame.
+
+Of course, you can imagine
+<a href="http://dawn.jpl.nasa.gov/mission/live_shots.asp">NASA's Dawn
+spacecraft</a> in this field of view.
+
+<a href="ap120919.html">Having left Vesta</a>
+in September, Dawn's
+<a href="http://dawn.jpl.nasa.gov/mission/ion_engine_interactive/
+index.asp">ion engine</a> is now
+steadily driving it to match orbits with Ceres, scheduled to arrive
+there in February 2015.
+
+</p>, 'title': u' Bright Jupiter in Taurus '}, 'image/1210/ison_rolando_1600.jpg': {'url': 'http://apod.nasa.gov/apod/ap121001.html', 'timestamp': u'2012 October 1 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/ison_rolando_1600.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Could this dim spot brighten into one of the 
+<a href="http://www.space.com/3366-greatest-comets-time.html">brightest comets</a> ever?
+
+It's possible. 
+
+<a href="http://www.planetary.org/blogs/guest-blogs/20120925-comet-ison.html">Alternatively</a>, 
+the comet could <a href="ap060504.html">break up</a> 
+when it gets closer to the Sun, or brighten much 
+<a href="http://en.wikipedia.org/wiki/Comet_Kohoutek">more modestly</a>.
+
+<a href="https://www.facebook.com/APOD.Sky">Sky</a> enthusiasts the world over are all 
+<a href="http://3.bp.blogspot.com/-Ok7KAaeDjoI/T9a_eWgdZNI/AAAAAAAAVUE/YBJJI1_DW0Q/s1600/Cat-whispering-to-dog.jpg">abuzz</a><a></a>, though, from the more 
+<a href="http://www.ast.cam.ac.uk/~jds/12s1.ukl">optimistic speculations</a> -- that the newly discovered 
+<a href="http://en.wikipedia.org/wiki/C/2012_S1">C/2012 S1</a> (ISON) could develop a 
+<a href="ap091206.html">spectacular</a> tail or briefly approach the 
+brightness of the full Moon toward the end of 2013.
+
+<a href="http://earthsky.org/space/big-sun-diving-comet-ison-might-be-spectacular-in-2013">Comet ISON</a> currently is very faint but is just visible at 
+<a href="http://en.wikipedia.org/wiki/Apparent_magnitude">magnitude</a> 18 in the above image.
+
+The comet, discovered just over a week ago from 
+<a href="http://en.wikipedia.org/wiki/Russia">Russia</a> by 
+Vitali Nevski (<a href="http://en.wikipedia.org/wiki/Belarus">Belarus</a>) 
+and Artyom Novichonok (Russia), is currently falling toward the Sun 
+from between the orbits of Jupiter and Saturn.
+
+In early 2013 October it will pass very near Mars and possibly be visible to rovers and orbiting spacecraft.
+
+<a href="http://www.universetoday.com/97561/new-sun-skirting-comet-could-provide-dazzling-display-in-2013/">Comet ISON</a> appears on course to achieve 
+<a href="ap090322.html">sungrazer</a> status as it passes within a solar diameter of Sun's surface in late 2013 November.
+
+Whatever survives will then pass nearest the Earth in late 2013 December. 
+
+Astronomers around the world will be tracking this large dirty snowball closely to 
+better understand its nature and how it 
+<a href="http://en.wikipedia.org/wiki/Rendezvous_with_rama#Plot_summary">might evolve</a> 
+during the next 15 months.
+
+
+
+</p>, 'title': u' Introducing Comet ISON '}, 'image/1210/ngc206Fera.jpg': {'url': 'http://apod.nasa.gov/apod/ap121024.html', 'timestamp': u'2012 October 24', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/ngc206Fera.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+The large stellar association cataloged as
+<a href="ap990402.html">NGC 206</a> is
+nestled within the dusty arms of neighboring
+<a href="http://www.seds.org/messier/m/m031.html">spiral galaxy
+Andromeda</a> (M31), 2.5 million light-years distant.
+
+Seen near the center of
+<a href="http://www.feraphotography.com/AM14/Ngc206.html">this
+gorgeous close-up</a> of the southwestern
+<a href="ap061228.html">extent</a> of
+Andromeda's disk, the bright, blue
+<a href="http://adsabs.harvard.edu/abs/1996ApJ...468..633H">stars of
+NGC 206</a> indicate its youth.
+
+Its youngest massive stars are less than 10 million years old.
+
+Much larger than the clusters of young stars
+<a href="ap120912.html">in the disk</a><a></a>
+of our Milky Way galaxy known as open or galactic clusters,
+<a href="http://messier.seds.org/more/m031_n206.html">NGC 206</a>
+spans about 4,000 light-years.
+
+That's comparable in size to the giant stellar nurseries
+<a href="ap031209.html">NGC 604</a> in nearby spiral
+<a href="ap101203.html">M33</a> and the
+<a href="ap090916.html">Tarantula Nebula</a>,
+in the Large Magellanic Cloud.
+
+</p>, 'title': u' NGC 206 and the Star Clouds of Andromeda '}, 'image/1211/moonhalo_ayiomamitis_950.jpg': {'url': 'http://apod.nasa.gov/apod/ap121120.html', 'timestamp': u'2012 November 20 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/moonhalo_ayiomamitis_950.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Have you ever seen a halo around the Moon?  
+
+This fairly common sight occurs when <a href="http://ww2010.atmos.uiuc.edu/(Gh)/wwhlpr/cirrus.rxml?hret=/guides/mtr/opt/ice/halo/22.rxml">high thin clouds</a> containing millions of tiny 
+<a href="http://www.its.caltech.edu/~atomic/snowcrystals/primer/primer.htm">ice crystals</a> cover much of the sky.  
+
+Each <a href="http://en.wikipedia.org/wiki/Ice_crystals">ice crystal</a> acts like a miniature lens.  
+
+Because 
+<a href="http://www.everythingweather.com/lightning/ice.shtml">most</a> 
+of the crystals have a similar 
+elongated hexagonal shape, 
+light entering one crystal face and exiting 
+through the opposing face refracts 22 degrees, 
+which corresponds to the radius of the <a href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/opt/ice/halo/22.rxml">Moon Halo</a>.  
+
+A similar 
+<a href="ap080618.html">Sun Halo</a> 
+may be visible during the day.  
+
+The setting of the 
+<a href="http://www.perseus.gr/Astro-Lunar-Scenes-Halo-20121031.htm">above picture</a> is 
+<a href="http://en.wikipedia.org/wiki/Athens">Athens</a>, Greece.
+
+The distant planet 
+<a href="jupiter.html">Jupiter</a> 
+appears by chance on the 
+<a href="http://en.wikipedia.org/wiki/
+Halo_(optical_phenomenon)">halo</a>'s left.  
+
+Exactly 
+<a href="http://ilovebacteria.com/vodka.htm">how ice-crystals form</a> 
+in clouds remains under 
+<a href="http://adsabs.harvard.edu/abs/1995dri..rept.....H">investigation</a>.  
+
+</p>, 'title': u' A Halo Around the Moon '}, 'image/1210/NGC6164Web_goldman.jpg': {'url': 'http://apod.nasa.gov/apod/ap121027.html', 'timestamp': u'2012 October 27', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/NGC6164Web_goldman.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Beautiful <a href="ap060606.html">emission nebula NGC 6164</a>
+was created by a rare, hot, luminous
+<a href="http://www.atlasoftheuniverse.com/startype.html">O-type</a>
+star, some 40 times as massive as the Sun.
+
+Seen at the center of the cosmic cloud, the star is a mere
+3 to 4 million years old.
+
+In another three to four million years the massive star will end its
+life in a <a href="http://imagine.gsfc.nasa.gov/docs/science/know_l1/
+supernovae.html">supernova explosion</a>.
+
+Spanning around 4 light-years,
+<a href="http://www.gemini.edu/node/188">the nebula itself</a>
+has a bipolar symmetry.
+
+That makes it similar in appearance to more familiar
+<a href="http://en.wikipedia.org/wiki/Planetary_nebula">planetary
+nebulae</a> - the gaseous shrouds
+<a href="ap120831.html">surrounding</a> dying sun-like stars.
+
+Also like many planetary nebulae, NGC 6164 has been found to have
+an extensive, <a href="http://adsabs.harvard.edu/cgi-bin/
+nph-bib_query?bibcode=1985PASP...97..780F&amp;">faint halo</a>,
+revealed in this deep telescopic image of the region.
+
+Expanding into the surrounding
+<a href="http://www-ssg.sr.unh.edu/ism/what1.html">interstellar
+medium</a>,
+the material in the
+halo is likely from an earlier active phase of the O star.
+
+<a href="http://dg-imaging.astrodon.com/gallery/
+display.cfm?imgID=179">The gorgeous skyscape</a>
+is a composite of narrow-band image data
+highlighting the glowing gas, and broad-band data of the surrounding
+starfield.
+
+NGC 6164 is 4,200 light-years away in the southern constellation
+<a href="http://www.hawastsoc.org/deepsky/nor/index.html">of Norma</a>.
+
+</p>, 'title': u' A Halo for NGC 6164 '}, 'image/1209/filament_sdo_1920.jpg': {'url': 'http://apod.nasa.gov/apod/ap120917.html', 'timestamp': u'2012 September 17 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/filament_sdo_1920.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+What's happened to our Sun? 
+
+Nothing very unusual -- it just 
+<a href="ap101215.html">threw a filament</a>.
+
+At the end of last month, a long standing 
+<a href="http://solar.physics.montana.edu/ypop/Program/hfilament.html">solar filament</a> 
+suddenly erupted into space producing an energetic Coronal Mass Ejection (CME). 
+
+<a href="http://blogs.discovermagazine.com/badastronomy/2012/09/10/a-huge-solar-filament-erupts-into-space/">The filament</a> had been held up for days by the Sun's ever changing 
+<a href="http://solar-center.stanford.edu/magnetism/magneticfields.html">magnetic field</a> 
+and the timing of the eruption was unexpected.
+
+<a href="http://www.flickr.com/photos/gsfc/sets/72157631408160534/">Watched closely</a> by the Sun-orbiting Solar Dynamics Observatory, the resulting 
+<a href="http://www.flickr.com/photos/gsfc/7931868316/in/set-72157631408160534">explosion</a>
+<a href="http://www.flickr.com/photos/gsfc/7938936660/in/set-72157631408160534">shot</a> electrons and ions into the Solar System, some of which arrived at Earth three days later and impacted Earth's 
+<a href="http://en.wikipedia.org/wiki/Magnetosphere">magnetosphere</a>, causing visible 
+<a href="ap120321.html">aurorae</a>.
+
+Loops of plasma surrounding an 
+<a href="ap080924.html">active region</a> can be seen above the erupting filament in 
+<a href="http://www.flickr.com/photos/gsfc/7931831962/in/set-72157631408160534/">the ultraviolet image</a>.
+
+If you missed this 
+<a href="http://spaceweather.com/gallery/index.php?title=aurora&amp;title2=lights">auroral display</a> 
+please do not 
+<a href="http://m5.paperblog.com/i/14/147177/why-does-my-dog-have-an-upset-stomach-L-wcyhdE.jpeg">despair</a> -- over the next two years our Sun will be experiencing a 
+<a href="http://en.wikipedia.org/wiki/Solar_maximum">solar maximum</a> of activity which 
+promises to produce 
+<a href="ap111005.html">more CMEs</a> that induce more Earthly auroras.
+
+
+</p>, 'title': u' A Solar Filament Erupts '}, 'image/1209/aurora2012sep20v2XLbroms.jpg': {'url': 'http://apod.nasa.gov/apod/ap120921.html', 'timestamp': u'2012 September 21', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/aurora2012sep20v2XLbroms.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+September's <a href="ap070923.html">equinox</a>
+arrives tomorrow as the Sun crosses the celestial equator heading south.
+
+The event marks the astronomical beginning of spring
+in the southern hemisphere and autumn in the north.
+
+And though
+<a href="http://science.nasa.gov/science-news/science-at-nasa/2001/
+ast26oct_1/">the connection</a>
+is still puzzling, the equinox seasons bring an increase
+in geomagnetic storms.
+
+So as northern nights grow longer, the equinox also heralds
+the arrival of a good season for
+<a href="ap120209.html">aurora hunters</a>.
+
+Recorded on September 20,
+<a href="http://nordlysfoto.blogspot.com/2012/09/
+breath-taking-auroras.html">these colorful northern lights</a>
+were captured with camera and wide-angle lens
+near the Norwegian Sea coast outside Tromsø in Northern Norway.
+
+<a href="http://odin.gi.alaska.edu/FAQ/#altitude">Shining at
+altitudes</a> of 100 kilometers or so,
+the aurora rays are parallel, but perspective makes them appear to
+radiate from a vanishing point behind the silhouetted pine tree.
+
+Stars in this enchanting northern night
+<a href="ap110514.html">include Polaris</a>
+above and right of the tree top, and
+yellowish giant stars
+<a href="http://stars.astro.illinois.edu/sow/shedar.html">Shedar</a>
+(Alpha Cassiopiae) to the left and
+<a href="http://stars.astro.illinois.edu/sow/kochab.html">Kochab</a>
+(Beta Ursae Minoris) to the right.
+
+Bright <a href="ap100625.html">Altair shines</a>
+through the greenish auroral curtain at the lower left of the scene.
+
+</p>, 'title': u" September's Aurora "}, 'image/1210/goataurora_casado_800.jpg': {'url': 'http://apod.nasa.gov/apod/ap121003.html', 'timestamp': u'2012 October 3 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/goataurora_casado_800.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Sometimes it's hard to believe what you see in the sky.
+
+During the <a href="http://www.expedicionesweb.com/ruta12/diario/">Shelios</a>
+<a href="http://gloria-project.eu/2012/08/shelios-en/">Expedition</a> 
+to Greenland in late August, even veteran sky enthusiasts saw auroras 
+so colorful, so 
+<a href="ap101124.html">fast changing</a>, 
+and so unusual in form that they could remember nothing like it. 
+
+As the ever changing auroras evolved, 
+<a href="image/1210/auroraforms_casado_960.jpg">huge shapes</a> 
+spread across the sky morphed from one familiar form into another, 
+including what looked to be the head of a 
+<a href="http://www.trifectaboergoats.com/images/Upload/600/2009-4-15-no2-Smooth-Criminal.jpg">goat</a> (shown above), 
+the head of an elephant, a strange green-tailed comet, 
+and fingers on a celestial hand.
+
+Even without the aurora, the sky would be notable for the 
+<a href="ap120801.html">arching band</a> of our 
+<a href="http://www.atlasoftheuniverse.com/galaxy.html">Milky Way Galaxy</a> 
+and the interesting field of stars, nebulas, and galaxies.
+
+In contrast, in the foreground is a farm house in 
+<a href="http://en.wikipedia.org/wiki/Tasiusaq,_Kujalleq">Tasiusaq</a>, 
+<a href="http://en.wikipedia.org/wiki/Kujalleq">Kujalleq</a>. 
+<a href="http://en.wikipedia.org/wiki/Greenland">Greenland</a>.
+
+The <a href="http://www.shelios.com/">Shelios project</a> 
+exists not only to observe 
+<a href="ap110823.html">auroras</a> but to 
+motivate students to consider a 
+<a href="http://www.pbs.org/safarchive/5_cool/53_career.html">career in science</a>.  
+
+
+</p>, 'title': u' Goat Aurora Over Greenland '}, 'image/1210/redspider_milovic_1476.jpg': {'url': 'http://apod.nasa.gov/apod/ap121029.html', 'timestamp': u'2012 October 29 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/redspider_milovic_1476.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Oh what a
+<a href="http://www.bartleby.com/100/338.25.html">tangled web</a>
+a <a href="http://www.seds.org/messier/planetar.html">planetary nebula</a> can weave. 
+
+The <a href="ap980106.html">Red Spider Planetary Nebula</a>
+shows the complex structure that can result when a
+<a href="ap100627.html">normal star</a> ejects
+its outer gases and becomes a
+<a href="ap000910.html">white dwarf</a> star.
+
+Officially tagged
+<a href="http://spider.seds.org/ngc/ngc.html">NGC</a>
+<a href="http://en.wikipedia.org/wiki/Red_Spider_Nebula">6537</a>, this two-lobed symmetric 
+<a href="planetary_nebulae.html">planetary nebula</a>
+houses one of the
+<a href="ap000730.html">hottest white dwarfs</a> ever observed,
+probably as part of a <a href="http://csep10.phys.utk.edu/astr162/lect/binaries/visual.html">binary star</a> system. 
+
+Internal <a href="http://www-spof.gsfc.nasa.gov/Education/wsolwind.html">winds</a> emanating from the central stars, visible in the center,
+have been measured in excess of 1000 kilometers per second.
+
+These
+<a href="ap000318.html">winds</a> expand the
+nebula, flow along the nebula's walls, and cause waves of hot
+<a href="http://periodic.lanl.gov/1.shtml">gas</a> and
+<a href="ap030706.html">dust</a> to collide. 
+
+<a href="http://education.jlab.org/atomtour/">Atoms</a>
+caught in these colliding shocks radiate light shown in the
+above representative-color picture by the
+<a href="http://www.nasa.gov/mission_pages/hubble/main/index.html">Hubble Space Telescope</a>. 
+
+The
+<a href="http://adsabs.harvard.edu/abs/2000A%26A...362L..17P">Red Spider Nebula</a> lies toward the <a href="http://www.astro.wisc.edu/~dolan/constellations/extra/constellations.html">constellation</a> of the Archer 
+(<a href="http://www.astronomical.org/constellations/sgr.html">Sagittarius</a>).  
+
+Its distance is not well known but has been
+<a href="http://cdsads.u-strasbg.fr/abs/1986A%26A...157..191G">estimated by some</a> to be about 4,000 <a href="http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html">light-years</a>.
+
+</p>, 'title': u' The Red Spider Planetary Nebula '}, 'image/1210/vdb1Blockc.jpg': {'url': 'http://apod.nasa.gov/apod/ap121026.html', 'timestamp': u'2012 October 26', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/vdb1Blockc.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap050819.html">Every book</a>
+has a first page and every catalog a first entry.
+
+And so this lovely blue cosmic cloud begins the
+<a href="http://adsabs.harvard.edu/abs/1966AJ.....71..990V">van
+den Bergh Catalog</a> (vdB) of stars surrounded by reflection nebulae.
+
+<a href="ap091229.html">Interstellar dust clouds</a>
+reflecting the light of the nearby stars,
+the nebulae usually appear blue because scattering by the dust grains
+is more effective at shorter (bluer) wavelengths.
+
+The same type of
+<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/atmos/
+blusky.html">scattering</a> gives planet Earth its
+<a href="http://www.webexhibits.org/causesofcolor/14.html">blue
+daytime skies</a>.
+
+Van den Bergh's 1966 list contains a total of 158 entries more
+easily visible from the northern hemisphere, including
+bright <a href="ap110921.html">Pleiades</a>
+cluster stars and other popular targets for astroimagers.
+
+Less than 5 light-years across,
+VdB1 lies about 1,600 light-years distant in the constellation
+Cassiopeia.
+
+<a href="http://skycenter.arizona.edu/gallery/nebulae/vdb1">Also
+on this scene</a>, two intriguing nebulae at the right show loops and
+outflow features associated with the energetic process of star formation.
+
+Within are extremely young variable stars
+<a href="http://adsabs.harvard.edu/abs/1996ApJ...472..349A">V633 Cas
+(top) and V376 Cas</a>.
+
+</p>, 'title': u' Reflection Nebula vdB1 '}, 'image/1210/geyseraurora_howell_2163.jpg': {'url': 'http://apod.nasa.gov/apod/ap121017.html', 'timestamp': u'2012 October 17 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/geyseraurora_howell_2163.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Sometimes both heaven and Earth erupt.
+
+Colorful aurorae erupted unexpectedly earlier this month, with 
+<a href="ap110517.html">green aurora</a> appearing near the horizon and brilliant bands of 
+<a href="ap120201.html">red aurora</a> blooming high overhead. 
+
+A bright Moon lit the foreground of this picturesque scene, 
+while familiar stars could be seen far in the distance. 
+
+With planning, the careful astrophotographer shot this image mosaic in the field of 
+<a href="http://en.wikipedia.org/wiki/White_Dome_Geyser">White Dome Geyser</a> in 
+<a href="http://en.wikipedia.org/wiki/Yellowstone_National_Park">Yellowstone National Park</a> 
+in the western USA.
+
+Sure enough, just after midnight, 
+<a href="https://www.youtube.com/watch?v=SL-sh5GQNCE">White Dome erupted</a> -- spraying a stream of water and vapor many meters into the air.
+
+<a href="http://en.wikipedia.org/wiki/Geyser">Geyser</a> water is heated to steam by 
+<a href="https://www.youtube.com/watch?v=xExdEXOaA9A">scalding magma</a> several 
+kilometers below, and rises through rock 
+<a href="ap020602.html">cracks</a> to the surface.
+
+About half of all known geysers occur in 
+<a href="https://www.youtube.com/watch?v=eV-RQHPQu2Y">Yellowstone National Park</a>.
+
+Although the 
+<a href="http://science.nasa.gov/science-news/science-at-nasa/1999/ast29dec99_1/">geomagnetic storm</a> 
+that created these aurorae has since subsided, eruptions of White Dome Geyser continue about every 30 minutes.
+
+</p>, 'title': u' Aurora Over White Dome Geyser '}, 'image/1212/quivertrees_breuer_3000.jpg': {'url': 'http://apod.nasa.gov/apod/ap121212.html', 'timestamp': u'2012 December 12 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/quivertrees_breuer_3000.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+In front of a famous background of stars and galaxies lies some of Earth's more unusual trees.
+
+Known as quiver trees, they are actually 
+<a href="http://en.wikipedia.org/wiki/Succulent_plant">succulent</a>
+<a href="http://en.wikipedia.org/wiki/Aloe">aloe</a> plants that can grow to tree-like proportions.
+
+The <a href="http://www.arkive.org/quiver-tree/aloe-dichotoma/">quiver tree</a> 
+name is derived from the historical usefulness of their hollowed branches as dart holders.
+
+Occurring primarily in southern 
+<a href="https://www.cia.gov/library/publications/the-world-factbook/wfbExt/region_afr.html">Africa</a>, the trees pictured in the 
+<a href="http://floriansphotographs.blogspot.com/2012/12/quiver-trees-by-night-1-2-3.html">above 16-exposure composite</a> are in 
+<a href="http://en.wikipedia.org/wiki/Quiver_Tree_Forest">Quiver Tree Forest</a> 
+located in southern Namibia.
+
+Some of the tallest <a href="http://en.wikipedia.org/wiki/Quiver_tree">quiver trees</a> 
+in the park are estimated to be about 300 years old.
+
+Behind 
+<a href="https://www.youtube.com/watch?v=Zs2eX1AJPrc">the trees</a> 
+is light from the small town of 
+<a href="http://en.wikipedia.org/wiki/Keetmanshoop">Keetmanshoop</a>, 
+<a href="http://en.wikipedia.org/wiki/Namibia">Namibia</a>.
+
+Far in the distance, 
+<a href="ap120801.html">arching</a> across the background, is the majestic 
+<a href="ap110710.html">central band</a> of our 
+<a href="http://www.atlasoftheuniverse.com/galaxy.html">Milky Way Galaxy</a>.
+
+Even further in the distance, visible on the image left, are the 
+<a href="ap060510.html">Large</a> and 
+<a href="ap050617.html">Small</a> Magellanic Clouds, 
+smaller satellite galaxies of the Milky Way that are 
+<a href="ap100514.html">prominent</a> in the skies of 
+Earth's southern hemisphere. 
+
+
+</p>, 'title': u' Milky Way Over Quiver Tree Forest '}, 'image/1211/leonid2012bolideVetter1500.jpg': {'url': 'http://apod.nasa.gov/apod/ap121122.html', 'timestamp': u'2012 November 22', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/leonid2012bolideVetter1500.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap001117.html">A cosmic grain of sand</a>
+left the long and colorful trail across
+<a href="http://www.nuitsacrees.fr/blog2011-2012/index.html">this
+all-sky view</a>.
+
+Its grazing impact with planet Earth's atmosphere began at
+71 kilometers per <i>second</i>.
+
+With the Milky Way stretching from horizon to horizon,
+the scene was captured on the night of November 17
+from the
+<a href="http://www.astrosurf.com/astrocdf67/
+A3_2french.htm">astronomically popular</a> high plateau at
+Champ du Feu in Alsace, France.
+
+Of course, the
+<a href="http://www.amsmeteors.org/richardson/distance.html">earthgrazer</a>
+meteor belongs to this month's
+<a href="http://meteorshowersonline.com/leonids.html">Leonid</a>
+meteor shower,
+<a href="http://www.imo.net/node/1451">produced</a>
+as our fair planet annually sweeps
+through dust from the tail of periodic Comet
+<a href="ap021116.html">Tempel-Tuttle</a>.
+
+The shower's <a href="ap061118.html">radiant point</a>
+in the constellation Leo
+is very close to the eastern horizon, near the start of the
+trail at the lower left.
+
+Bright planet Jupiter is also easy to spot, immersed in
+a faint band of <a href="ap121020.html">Zodiacal</a>
+light just below and right of center.
+
+The image is part of a dramatic time-lapse video
+<a href="http://vimeo.com/53980967">(vimeo here)</a>
+that began only 7 minutes before the long leonid crossed the sky.
+
+</p>, 'title': u' Night of the Long Leonid '}, 'image/1211/supermicromoon_paduraru.jpg': {'url': 'http://apod.nasa.gov/apod/ap121129.html', 'timestamp': u'2012 November 29', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/supermicromoon_paduraru.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://earthsky.org/tonight/
+smallest-full-moon-of-year-and-penumbral-eclipse-november-28">Did
+you see</a> the big, bright, beautiful Full Moon Wednesday night?
+
+That was actually a Micro Moon!
+
+On that night, the smallest Full Moon of 2012 reached its full phase only
+about <a href="http://fourmilab.ch/earthview/pacalc.html">4 hours before
+apogee</a>, the most distant point from Earth in the
+Moon's elliptical orbit.
+
+Of course, earlier this year on May 6,
+a Full Super Moon was near perigee, the closest
+<a href="http://fourmilab.ch/earthview/moon_ap_per.html">point
+in its orbit</a>.
+
+The relative <a href="ap080801.html">apparent size</a> of November 28's
+Micro Moon (right) is compared to the famous
+<a href="ap120511.html">May 6 Super Moon</a> in these two panels,
+<a href="http://www.astrosnake.com/gallery/moon.htm">matching
+telescopic images</a> from Bucharest, Romania.
+
+<a href="http://www.perseus.gr/
+Astro-Lunar-Scenes-Apo-Perigee-2010.htm">The difference</a>
+in apparent size represents a difference in distance
+of just under 50,000 kilometers between apogee and perigee, given
+the Moon's average distance of about 385,000 kilometers.
+
+How long do you have to wait to see another Full Micro Moon?
+
+Until January 16, 2014, when the lunar full phase will occur within
+about 3 hours of apogee.
+
+</p>, 'title': u' Super Moon vs. Micro Moon '}, 'image/1210/blacksun_lafferty_1600.jpg': {'url': 'http://apod.nasa.gov/apod/ap121015.html', 'timestamp': u'2012 October 15 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/blacksun_lafferty_1600.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Does this strange dark ball look somehow familiar?
+
+If so, that might be because it is our Sun.
+
+In the above image, a 
+<a href="http://scopetrader.com/jimlafferty/?page=238">detailed solar view</a> 
+was captured originally in a 
+<a href="http://en.wikipedia.org/wiki/Hydrogen_alpha">very specific color</a> 
+of red light, then rendered in black and white, and then color inverted.
+
+Once complete, the resulting image was added to a starfield, then also color inverted.
+
+Visible in the above image of the Sun are 
+<a href="ap120820.html">long light filaments</a>, dark active regions, 
+<a href="ap110307.html">prominences peeking</a> around the edge, and a 
+<a href="ap081102.html">moving carpet</a> 
+of hot gas.
+
+The surface of our Sun has become a particularly busy place over the 
+<a href="ap091104.html">past two years</a> because it is now nearing 
+<a href="http://science.nasa.gov/science-news/science-at-nasa/2012/20jul_tasteofsolarmax/">Solar Maximum</a>, the time when its surface 
+<a href="http://solar-center.stanford.edu/magnetism/magneticfields.html">magnetic field</a> 
+is wound up the most.
+
+Besides an active Sun being so picturesque, the 
+<a href="http://en.wikipedia.org/wiki/Plasma_%28physics%29">plasma</a> 
+expelled can also become picturesque when it impacts the 
+<a href="http://www.windows2universe.org/earth/Magnetosphere/overview.html">Earth's magnetosphere</a> and creates 
+<a href="ap110517.html">auroras</a>.
+
+
+</p>, 'title': u' Black Sun and Inverted Starfield '}, 'image/1212/ngc5189_hst_3964.jpg': {'url': 'http://apod.nasa.gov/apod/ap121219.html', 'timestamp': u'2012 December 19 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/ngc5189_hst_3964.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Why is this nebula so complex?
+
+When a star like our Sun is dying, it will cast off its outer layers, usually into a simple overall shape.
+
+Sometimes this shape is a 
+<a href="ap121008.html">sphere</a>, sometimes a 
+<a href="ap050612.html">double lobe</a>, and sometimes a 
+<a href="ap091115.html">ring</a> or a 
+<a href="ap030510.html">helix</a>. 
+
+In the case of planetary nebula 
+<a href="http://heritage.stsci.edu/2012/49/caption.html">NGC 5189</a>, 
+however, no such simple structure has emerged. 
+
+To help find out why, the Earth-orbiting 
+<a href="http://en.wikipedia.org/wiki/Hubble_Space_Telescope">Hubble Space Telescope</a> 
+recently observed <a href="ap951211.html">NGC 5189</a> in great detail.
+
+<a href="http://arxiv.org/abs/1203.1297">Previous findings</a> 
+indicated the existence of multiple epochs of material outflow, 
+including a recent one that created a bright but distorted 
+<a href="http://en.wikipedia.org/wiki/Torus">torus</a>
+running horizontally
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/49/
+image/a/">across image center</a>. 
+
+Results appear consistent with a hypothesis that the 
+<a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18008">dying star</a> 
+is part of a <a href="https://www.youtube.com/watch?v=ecz9GEOE9Wg">binary star</a> system with a 
+<a href="http://en.wikipedia.org/wiki/Precession">precessing</a> symmetry axis.
+
+Given this <a href="http://www.stsci.edu/hst/phase2-public/12812.pdf">new data</a>, though, research is sure to continue.
+
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/49/fastfacts/">NGC 5189</a> spans about three light years and lies about 3,000 light years 
+away <a href="http://hubblesite.org/newscenter/archive/releases/2012/49/video/a/">toward</a> the southern constellation of the Fly 
+(<a href="http://en.wikipedia.org/wiki/Musca">Musca</a>).
+
+
+</p>, 'title': u' NGC 5189: An Unusually Complex Planetary Nebula '}, 'image/1209/ngc6726_lorenzi.jpg': {'url': 'http://apod.nasa.gov/apod/ap120927.html', 'timestamp': u'2012 September 27', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/ngc6726_lorenzi.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Cosmic dust clouds sprawl across a rich field of stars in
+<a href="http://www.glitteringlights.com/Images/deepsky/
+13667287_7Mtr58#!i=2022967990&amp;k=sCZdbtC">this
+sweeping telescopic vista</a> near the northern boundary of
+<a href="http://www.botproductions.com/stellar/
+corona_australis.html">Corona Australis</a>, the Southern Crown.
+
+Probably less than 500 light-years away and
+effectively <a href="ap090425.html">blocking light</a> from
+more distant, background stars in the
+<a href="http://members.nova.org/~sol/chview/chv5.htm">Milky Way</a>,
+the densest part of the dust cloud is about 8 light-years long.
+
+<a href="image/0407/ngc6726_wide_tanlbl1.jpg">At its tip</a>
+(upper right) is a group of lovely reflection nebulae cataloged as
+<a href="http://www.aao.gov.au/images/captions/
+aat073.html">NGC 6726, 6727, 6729</a>, and IC 4812.
+
+A characteristic blue color is produced as light
+from hot stars is <a href="ap011228.html">reflected by</a>
+the cosmic dust.
+
+The smaller yellowish nebula (NGC 6729) surrounds
+<a href="ap031226.html">young</a> variable star
+<a href="http://www.solstation.com/stars/r-coraus.htm">R
+Coronae Australis</a>.
+
+Magnificent <a href="ap120614.html">globular star cluster</a> NGC 6723
+is toward the upper right corner of the view.
+
+While <a href="http://www.seds.org/~spider/spider/
+MWGC/n6723.html">NGC 6723 appears </a> to be part of the group,
+it actually lies nearly 30,000
+<a href="http://www.haydenplanetarium.org/universe/duguide/
+app_light_travel_time_dista.php">light-years</a> away,
+far beyond the <a href="http://www.eso.org/public/videos/
+eso1109a/">Corona Australis dust clouds</a>.
+
+</p>, 'title': u' Stars and Dust Across Corona Australis '}, 'image/1211/eclipsequilt_winkelman_1200.jpg': {'url': 'http://apod.nasa.gov/apod/ap121113.html', 'timestamp': u'2012 November 13 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/eclipsequilt_winkelman_1200.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Some people are so inspired by solar eclipses that they 
+<a href="ap051016.html">quilt</a>. 
+
+Pictured above is a resulting textile from one such inspiration.
+
+The 38x38 inch quilt offers impressions of a total
+<a href="ap120519.html">annular eclipse</a>,
+when the Moon is too far from the Earth to cover the entire Sun,
+<a href="ap051007.html">witnessed</a> in Spain in October of 2005. 
+
+Today, however, a full 
+<a href="ap110115.html">total solar eclipse</a> will occur, although it will only be visible to 
+<a href="http://www.eclipsechaser.com/eclink/ecjrnl/ecj91.htm">eclipse chasers</a> and those who live in a 
+<a href="http://eclipse.gsfc.nasa.gov/OH/OH2012.html#SE2012Nov13T">thin swath</a> of 
+<a href="http://en.wikipedia.org/wiki/Australia">Australia</a>.
+
+For a few minutes, those near the center of the 
+<a href="http://eclipse.gsfc.nasa.gov/SEanimate/SEanimate2001/SE2012Nov13T.GIF">eclipse path</a> will see the entire 
+<a href="http://en.wikipedia.org/wiki/Solar_eclipse">Sun blocked</a> 
+by the Moon, causing the day to become 
+<a href=" http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Malevich.black-square.jpg/605px-Malevich.black-square.jpg">unusually dark</a>.
+
+Just before -- and just after --  
+<a href="https://www.youtube.com/watch?v=K42UqWGdA_o">totality</a> occurs, 
+sunlight may stream between mountains on the Moon's edge creating a 
+<a href="ap100724.html">diamond ring effect</a>.
+
+The next total 
+<a href="http://en.wikipedia.org/wiki/Solar_eclipse_of_November_13,_2012">eclipse</a> 
+of the Sun will occur in 
+<a href="http://en.wikipedia.org/wiki/Solar_eclipse_of_November_3,_2013">November 2013</a>.
+
+</p>, 'title': u' A Solar Eclipse Quilt '}, 'image/1211/PIA16214nustar.jpg': {'url': 'http://apod.nasa.gov/apod/ap121102.html', 'timestamp': u'2012 November 2', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/PIA16214nustar.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap081211.html">At the center of our Milky Way Galaxy</a>,
+a mere 27,000 light-years away,
+lies a black hole with 4 million times the mass of the Sun.
+
+Fondly known as Sagittarius A* (pronounced A-star),
+the Milky Way's black hole is
+<a href="ap120702.html">fortunately</a> mild-mannered compared
+to the central black holes in
+<a href="ap080110.html">distant active galaxies</a>, much
+more calmly consuming material around it.
+
+From time to time it does flare-up, though.
+
+An outburst lasting several hours is captured in
+<a href="http://www.nasa.gov/mission_pages/nustar/news/
+nustar20121023.html">this series of premier X-ray images</a>
+from the orbiting
+<a href="http://www.nustar.caltech.edu/about-nustar">Nuclear
+Spectroscopic Telescope Array</a> (NuSTAR).
+
+Launched last June 13, NuSTAR is the first to provide
+<a href="http://www.nustar.caltech.edu/for-astronomers">focused views</a>
+of the area surrounding Sgr A* at X-ray energies higher than
+those accessible to Chandra and XMM observatories.
+
+Spanning two days of NuSTAR observations,
+the flare sequence is illustrated in the panels at the far right.
+
+X-rays are generated in material heated to over 100 million
+degrees Celsius, accelerated to nearly the speed of light as it
+falls into the Miky Way's central black hole.
+
+<a href="http://www.nasa.gov/mission_pages/nustar/multimedia/
+pia16213.html">The main inset X-ray image</a>
+spans about 100 light-years.
+
+In it, the bright white region represents the hottest material closest
+to the black hole, while the pinkish cloud likely belongs to a
+nearby <a href="ap060602.html">supernova remnant</a>.
+
+</p>, 'title': u' The Black Hole in the Milky Way '}, 'image/1212/redsquare_tuthill_1024.jpg': {'url': 'http://apod.nasa.gov/apod/ap121216.html', 'timestamp': u'2012 December 16 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/redsquare_tuthill_1024.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+What could cause a nebula to appear square?
+
+No one is quite sure.
+
+The hot star system known as
+<a href="http://www.sciencemag.org/content/316/5822/247.abstract">MWC 922</a>, however, appears to be embedded in a nebula with just such a shape.  
+
+The <a href="http://www.physics.usyd.edu.au/~gekko/redsquare.html">above image</a> combines
+<a href="http://en.wikipedia.org/wiki/Infrared">infrared</a> exposures from the
+<a href="http://www.astro.caltech.edu/palomar/hale.html">Hale Telescope</a> on
+<a href="http://www.astro.caltech.edu/palomar/">Mt. Palomar</a> in
+<a href="http://en.wikipedia.org/wiki/California">California</a>, and the
+<a href="ap971227.html">Keck-2 Telescope</a> on
+<a href="ap050704.html">Mauna Kea</a> in
+<a href="http://en.wikipedia.org/wiki/Hawaii">Hawaii</a>.  
+
+A leading progenitor hypothesis for the
+<a href="ap020618.html">square nebula</a> is that the central star or stars
+somehow expelled cones of gas during a late
+<a href="http://www.youtube.com/watch?v=W13ZYepDBvo">developmental stage</a>.
+
+For <a href="http://en.wikipedia.org/wiki/Red_Square_Nebula">MWC 922</a>,
+these cones happen to incorporate nearly
+<a href="http://en.wikipedia.org/wiki/Right_angle">right angles</a>
+and be visible from the sides.  
+
+Supporting evidence for the
+<a href="http://mathworld.wolfram.com/Cone.html">cone</a>
+hypothesis includes radial spokes in the image that might run along the
+<a href="http://www.istockphoto.com/file_thumbview_approve/5701896/2/istockphoto_5701896-cone-head-man.jpg">cone</a> walls.
+
+Researchers speculate that the cones viewed from
+another angle would appear similar to the gigantic rings of
+<a href="ap070107.html">supernova 1987A</a>,
+possibly indicating that a star in MWC 922 might one day itself explode in a similar
+<a href="http://heasarc.gsfc.nasa.gov/docs/snr.html">supernova</a>.
+
+
+</p>, 'title': u' MWC 922: The Red Square Nebula '}, 'image/1211/Total_Solar_Eclipse_2012Cooper.jpg': {'url': 'http://apod.nasa.gov/apod/ap121116.html', 'timestamp': u'2012 November 16', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/Total_Solar_Eclipse_2012Cooper.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+On the morning of November 14,
+<a href="http://www.mreclipse.com/Special/SEprimer.html">the Moon's
+umbral shadow</a> tracked across northern Australia before heading into
+the southern Pacific.
+
+Captured from a hilltop some 30 miles west of the outback town of
+Mount Carbine, Queensland, a series of exposures follows
+the progress of the
+<a href="http://eclipse.gsfc.nasa.gov/SEmono/TSE2012/TSE2012.html">total
+solar eclipse</a> in this
+<a href="http://www.launchphotography.com/
+Total_Solar_Eclipse_2012.html">dramatic composite image</a>.
+
+The sequence begins near the horizon.
+
+The Moon steadily encroaches on the reddened face of the Sun,
+rising as the eclipse progresses.
+
+<a href="ap090730.html">At the total phase</a>,
+lasting about 2 minutes for that location,
+an otherwise faint <a href="ap021213.html">solar corona</a>
+shimmers around the eclipsed disk. 
+
+Recorded during totality, the background exposure shows a still sunlit
+sky near the horizon, just beyond a sky darkened by
+<a href="http://www.nasa.gov/multimedia/videogallery/
+index.html?media_id=144197701">the shadow of the Moon</a>.
+
+</p>, 'title': u' Moon Shadow Sequence '}, 'image/1211/veil_ferreiros_1888.jpg': {'url': 'http://apod.nasa.gov/apod/ap121126.html', 'timestamp': u'2012 November 26 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/veil_ferreiros_1888.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Wisps like this are all that remain visible of a Milky Way star.  
+
+About 9,000 years ago that star exploded in a
+<a href="http://heasarc.gsfc.nasa.gov/docs/snr.html">supernova</a> leaving the
+<a href="http://www.skyhound.com/sh/archive/aug1/NGC_6960.html">Veil Nebula</a>, also known as the Cygnus Loop.
+
+At the time, the <a href="ap010928.html">expanding cloud</a>
+was likely as bright as a crescent <a href="ap051113.html">Moon</a>, remaining
+visible for weeks to people living at the dawn of
+<a href="http://news.bbc.co.uk/1/hi/sci/tech/334517.stm">recorded history</a>.  
+
+Today, the resulting <a href="supernova_remnants.html">supernova remnant</a>
+has faded and is
+<a href="http://www.youtube.com/watch?v=_O7l9m2pFXM">now visible</a> only through a small telescope
+<a href="http://www.youtube.com/watch?v=3qOmu-5Uanc">directed</a>
+toward the
+<a href="http://en.wikipedia.org/wiki/Constellation">constellation</a> of the Swan
+(<a href="http://en.wikipedia.org/wiki/Cygnus_(constellation)">Cygnus</a>).
+
+The remaining <a href="http://en.wikipedia.org/wiki/Veil">Veil</a>
+Nebula is physically huge, however, and even though it lies about 1,400
+<a href="http://chandra.harvard.edu/photo/cosmic_distance.html">light-years</a> distant, it covers over five times the size of the
+<a href="ap020316.html">full Moon</a>.  
+
+In images 
+<a href="https://sites.google.com/site/astrojoaquinferreiros/home/velosrgb">like this</a> of the
+<a href="ap051206.html">complete Veil Nebula</a>,
+<a href="http://2.bp.blogspot.com/_VK79IcRMJFw/TQAL-aiKIkI/AAAAAAAAAws/_I9M3T_rfi0/s1600/CatWithGlasses-1.jpg">studious readers</a>
+should be able to identify several of the individual filaments.
+
+A bright wisp at the right is known as the 
+<a href="ap070101.html">Witch's Broom Nebula</a>.
+
+
+</p>, 'title': u' Wisps of the Veil Nebula '}, 'image/1211/almosttrees_mro_2560.jpg': {'url': 'http://apod.nasa.gov/apod/ap121125.html', 'timestamp': u'2012 November 25 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/almosttrees_mro_2560.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+They might look like trees on Mars, but they're not.
+
+Groups of dark brown streaks have been photographed by the
+<a href="http://en.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter">Mars Reconnaissance Orbiter</a> on melting pinkish sand dunes covered with light frost.
+
+The <a href="http://hirise.lpl.arizona.edu/PSP_007962_2635">above image</a> was taken in 2008 April near the
+<a href="ap021224.html">North Pole</a> of Mars.
+
+At that time,
+<a href="ap060823.html">dark sand</a> on the interior of
+Martian sand
+<a href="http://en.wikipedia.org/wiki/Sand_dune">dunes</a>
+became more and more  visible as the
+<a href="http://www.planetary.org/explore/topics/mars/calendar.html">spring Sun</a> melted the lighter
+<a href="http://www.youtube.com/watch?v=76CNkxizQuc">carbon dioxide ice</a>.  
+
+When occurring near the top of a dune,
+<a href="ap070805.html">dark sand may cascade</a> down the dune leaving
+<a href="http://blogs.discovermagazine.com/badastronomy/2010/01/11/another-dose-of-martian-awesome/">dark surface streaks</a> -- streaks that might appear at first to be
+<a href="http://en.wikipedia.org/wiki/Methuselah_(tree)">tree</a>s standing in front of the lighter regions, but cast no shadows.
+
+Objects about 25 centimeters across are resolved on
+<a href="http://hirise.lpl.arizona.edu/PSP_007962_2635">this image</a> spanning about one kilometer.
+
+Close ups of some parts of this image show
+<a href="ap080311.html">billowing plume</a>s
+indicating that the sand slides were occurring even
+when the image was being taken. 
+
+
+</p>, 'title': u' Dark Sand Cascades on Mars '}, 'image/1212/ngc604_hstlegacy_1512.jpg': {'url': 'http://apod.nasa.gov/apod/ap121211.html', 'timestamp': u'2012 December 11 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/ngc604_hstlegacy_1512.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Stars are sometimes born in the midst of chaos. 
+
+About 3 million years ago in the nearby galaxy 
+<a href="ap030924.html">M33</a>, a large cloud of gas 
+spawned dense internal knots which gravitationally 
+collapsed to form stars. 
+
+<a href="http://www.seds.org/messier/more/m033_n604.html">NGC 604</a> was so large, however, it could form enough stars to make a 
+<a href="globular_clusters.html">globular cluster</a>. 
+
+Many young stars from 
+<a href="https://www.youtube.com/watch?v=Elsz-YtGyPk">this cloud</a> are <a href="http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/30/image/">visible</a> in the 
+<a href="http://www.waid-observatory.com/NGC0604-2012-09-30-HLA.html">above image</a> from the 
+<a href="http://www.stsci.edu/hst/HST_overview/">Hubble Space Telescope</a>, 
+along with what is left of the initial 
+<a href="http://heritage.stsci.edu/2003/30/supplemental.html">gas cloud</a>. 
+
+Some stars were so massive they have already 
+evolved and exploded in a 
+<a href="http://heasarc.gsfc.nasa.gov/docs/snr.html">supernova</a>. 
+
+The <a href="ap021102.html">brightest stars</a> that are left emit light 
+so energetic that they create one of the largest clouds of 
+<a href="ap030410.html">ionized hydrogen</a> gas known, 
+comparable to the 
+<a href="ap030823.html">Tarantula Nebula</a> in our 
+<a href="http://www.damtp.cam.ac.uk/user/gr/public/gal_milky.html">Milky Way</a>'s close neighbor, the 
+<a href="ap010804.html">Large Magellanic Cloud</a>.
+
+
+</p>, 'title': u' NGC 604: Giant Stellar Nursery '}, 'image/1211/pipe_neb_30beletsky.jpg': {'url': 'http://apod.nasa.gov/apod/ap121123.html', 'timestamp': u'2012 November 23', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/pipe_neb_30beletsky.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+
+East of Antares,
+<a href="ap090425.html">dark markings</a> sprawl through crowded
+star fields toward <a href="ap090519.html">the center</a>
+of our Milky Way Galaxy.
+
+<a href="http://adsabs.harvard.edu/cgi-bin/
+bib_query?1919ApJ....49....1B">Cataloged in</a> the early 20th
+century by astronomer
+<a href="http://www.library.gatech.edu/search/digital_collections/
+barnard/sowell.html">E. E. Barnard</a>, the obscuring
+interstellar dust clouds
+<a href="http://www.saguaroastro.org/content/
+Best-of-Barnards-Dark-Nebulae.htm">include
+B59, B72, B77 and B78</a>, seen in <a href="ap001229.html">silhouette</a>
+against the starry background.
+
+Here, their combined shape suggests
+<a href="http://en.wikipedia.org/wiki/File:MagrittePipe.jpg">a pipe</a>
+stem and bowl,
+and so the dark nebula's popular name is the Pipe Nebula.
+
+The deep and expansive view was represents nearly 24 hours of
+exposure time recorded in very dark skies of the Chilean
+<a href="ap120711.html">Atacama desert</a>.
+
+It covers a full 10 by 10 degree field in the
+<a href="http://www.astronomyclub.org/learn/Say_What.htm">pronounceable</a>
+constellation Ophiuchus.
+
+The Pipe Nebula is part of the Ophiuchus dark cloud complex
+located at a distance of about 450 light-years.
+
+<a href="http://arxiv.org/abs/0904.4169">Dense cores</a>
+of gas and dust within the Pipe Nebula are collapsing to form stars.
+
+</p>, 'title': u' The Pipe Nebula '}, 'image/1211/ngc660_gemini_legacy.jpg': {'url': 'http://apod.nasa.gov/apod/ap121110.html', 'timestamp': u'2012 November 10', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/ngc660_gemini_legacy.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+NGC 660 is featured in
+<a href="http://www.gemini.edu/node/11896">this cosmic snapshot</a>,
+a sharp composite of broad and narrow band filter image data from
+the Gemini North telescope
+<a href="ap090219.html">on Mauna Kea</a>.
+
+Over 20 million light-years away and swimming within
+the boundaries of the
+<a href="http://en.wikipedia.org/wiki/
+Pisces_(constellation)">constellation Pisces</a>,
+NGC 660's peculiar appearance marks it as
+<a href="ap070216.html">a polar ring galaxy</a>.
+
+A rare galaxy type, polar ring galaxies have a substantial population
+of stars, gas, and dust
+<a href="ap990510.html">orbiting in rings</a> nearly perpendicular
+to the plane of the galactic disk.
+
+<a href="http://arxiv.org/abs/astro-ph/0301391">The bizarre-looking
+configuration</a> could have been caused by the chance capture
+of material from a passing galaxy by a disk galaxy, with the captured
+debris eventually strung out in a rotating ring.
+
+The violent gravitational interaction would account
+for the myriad pinkish star forming regions scattered along NGC 660's ring.
+
+<a href="http://www.obspm.fr/actual/nouvelle/apr03/prg.en.shtml">The
+polar ring component</a> can also be used
+to explore the shape of the galaxy's otherwise unseen
+<a href="http://www.solstation.com/x-objects/darkhalo.htm">dark matter
+halo</a> by calculating the
+<a href="http://chandra.harvard.edu/xray_astro/dark_matter/
+index.html">dark matter's</a> gravitational
+influence on the rotation of the ring and disk.
+
+Broader than the disk, NGC 660's ring spans over 50,000 light-years.
+
+</p>, 'title': u' Polar Ring Galaxy NGC 660 '}, 'image/1210/TrapMosaic-HST-Gendler-Crop.jpg': {'url': 'http://apod.nasa.gov/apod/ap121006.html', 'timestamp': u'2012 October 6', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/TrapMosaic-HST-Gendler-Crop.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Near the center of <a href="http://www.robgendlerastropics.com/
+TrapMosaic-HST-Gendler.html">this sharp cosmic portrait</a>, at
+the heart of <a href="ap090222.html">the Orion Nebula</a>,
+are four hot, massive stars
+<a href="http://messier.seds.org/more/m042_trapezium.html">known as
+the Trapezium</a>.
+
+Gathered within a region about 1.5 light-years in radius,
+they dominate the core of the dense Orion Nebula Star Cluster.
+
+Ultraviolet ionizing radiation from the Trapezium stars,
+mostly from the brightest star
+<a href="http://stars.astro.illinois.edu/sow/theta1ori.html">Theta-1
+Orionis C</a>
+powers the complex star forming region's entire visible glow.
+
+About three million years old, the Orion Nebula Cluster was
+even more compact in its younger years and a
+<a href="http://arxiv.org/abs/1209.2114">recent dynamical study</a>
+indicates that
+<a href="http://www.skyandtelescope.com/community/skyblog/newsblog/
+A-Black-Hole-in-Orion-171183711.html">runaway stellar collisions</a>
+at an earlier age may have formed a black hole
+with more than 100 times the mass of the Sun.
+
+The presence of a black hole within the cluster
+could explain the observed high velocities of the Trapezium stars.
+
+The Orion Nebula's distance of some 1500 light-years
+would make it the closest known black hole to planet Earth.
+
+</p>, 'title': u' At the Heart of Orion '}, 'image/1211/HunterMoonAlpsDeRosa.jpg': {'url': 'http://apod.nasa.gov/apod/ap121103.html', 'timestamp': u'2012 November 3', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/HunterMoonAlpsDeRosa.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap110420.html">A Full Moonset</a>
+can be a dramatic celestial sight, and Full Moons can
+have many names. 
+
+<a href="ap091105.html">Late October's</a> Full Moon,
+the second Full Moon after the
+northern hemisphere autumnal equinox, has been traditionally called the
+<a href="http://en.wikipedia.org/wiki/Hunter%27s_moon">Hunter's Moon</a>.
+
+According to lore, the name is a fitting one because this
+Full Moon lights the night during a time for hunting
+in preparation for the <a href="ap120120.html">coming winter</a> months.
+
+<a href="http://stefanoderosa.com/2012/10/30/
+hunters-moon-over-the-alps/">In this scene</a>,
+last week's Hunter's Moon
+<a href="http://www.moonconnection.com/moon_phases.phtml">shines</a>
+with a rich yellow light,
+<a href="ap050127.html">setting</a> as dawn comes to the Italian Alps.
+
+Topping out at over 11,000 feet, the snowy peak known as Rochemelon
+glows, just catching the first reddened light of the rising Sun.
+
+</p>, 'title': u" Hunter's Moon over the Alps "}, 'image/1212/BakuMoonJupiterTezel.jpg': {'url': 'http://apod.nasa.gov/apod/ap121208.html', 'timestamp': u'2012 December 8', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/BakuMoonJupiterTezel.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap081122.html">A Full Moon rises</a> in this waterfront scene.
+
+Its colorful, watery reflection is joined by harbor lights and
+a windowed skyscraper's echo of the western horizon just after sunset.
+
+The tantalizing image is a composite of frames recorded at 2 minute
+intervals on November 28 from the Caspian Sea
+<a href="ap120920.html">port city of Baku</a>, Azerbaijan. 
+
+Still, this Full Moon was not really as big or as bright as others,
+though it might be hard to tell.
+
+In fact, November 28's Full Moon was near apogee, making it the
+<a href="ap121129.html">smallest Full Moon</a> of 2012.
+
+As it rose over the Baku boardwalk (along with much of the
+eastern hemisphere), it was also in the Earth's lighter or
+<a href="ap060909.html">penumbral shadow</a>.
+
+The subtle effect of the
+<a href="http://eclipse.gsfc.nasa.gov/OH/OH2012.html#LE2012Nov28N">penumbral
+lunar eclipse</a> is just discernible
+as the slightly darker left side of the lunar disk.
+
+Opposite the Sun in planet Earth's sky, the Full Moon was also
+joined by <a href="ap121127.html">bright planet Jupiter</a>, only a
+few days from its own opposition.
+
+</p>, 'title': u' Baku Moonrise '}, 'image/1211/JupIoBianconiCollage.png': {'url': 'http://apod.nasa.gov/apod/ap121128.html', 'timestamp': u'2012 November 28', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/JupIoBianconiCollage.png', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+On December 3 (UT), Jupiter,
+<a href="http://solarsystem.nasa.gov/planets/
+profile.cfm?Object=Jupiter&amp;Display=OverviewLong">the
+solar system's largest planet</a>, will be at opposition,
+opposite the Sun in planet Earth's sky,
+<a href="ap121127.html">shining brightly</a> and rising as the Sun sets.
+
+<a href="http://astronomy.swin.edu.au/cosmos/O/Opposition">That
+configuration</a> results in Jupiter's almost annual
+closest approach to planet Earth.
+
+So, near opposition the gas giant offers earthbound telescopes
+stunning views of its stormy, banded atmosphere and large
+<a href="http://solarsystem.nasa.gov/planets/
+profile.cfm?Object=Jupiter&amp;Display=Moons">Galilean moons</a>.
+
+For example, this sharp series was recorded on the night of November
+16/17 from the island of Sardinia near Dolianova, Italy.
+
+North is up in the images that show off Jupiter's
+famous Great Red Spot, and planet girdling
+dark belts and light zones.
+
+Also seen in transit is Jupiter's
+<a href="ap080817.html">volcanic moon Io</a>, its
+round, dark shadow tracking across the
+<a href="http://solarsystem.nasa.gov/missions/
+profile.cfm?Sort=Target&amp;Target=Jupiter&amp;MCode=Juno">Jovian cloud tops</a>
+as the sequence progresses left to right.
+
+</p>, 'title': u' Jupiter and Io '}, 'image/1210/ontario_vir_2012282_lrg.jpg': {'url': 'http://apod.nasa.gov/apod/ap121011.html', 'timestamp': u'2012 October 11', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/ontario_vir_2012282_lrg.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+North America
+<a href="ap081005.html">at night</a> is easy to recognize in
+<a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=79373">this
+view of our fair planet</a> from orbit, acquired
+by the Suomi-NPP satellite on October 8.
+
+The spectacular waves of visible light emission rolling
+above the Canadian provinces of Quebec and Ontario
+in the upper half of the frame are the Aurora Borealis or
+northern lights.
+
+Encircling the poles and extending to lower latitudes,
+impressive aurorae seen
+<a href="http://spaceweather.com/gallery/
+index.php?title=aurora&amp;title2=lights">during the past few days</a>
+are due to strong geomagnetic storms.
+
+<a href="http://www.nasa.gov/mission_pages/sunearth/news/
+News100512-cme.html">The storms were triggered</a>
+by a solar coronal mass
+ejection on October 4/5, impacting
+<a href="http://www.phy6.org/Education//Intro.html">Earth's
+magnetosphere</a> some three days later.
+
+The curtains of light, shining well over 100 kilometers
+above the surface, are formed as charged particles
+accelerated in the magnetosphere excite oxygen and nitrogen
+<a href="http://odin.gi.alaska.edu/FAQ/#color">in the upper atmosphere</a>.
+
+</p>, 'title': u' Aurorae over Planet Earth '}, 'image/1210/spiralstar_alma_3600.jpg': {'url': 'http://apod.nasa.gov/apod/ap121016.html', 'timestamp': u'2012 October 16 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/spiralstar_alma_3600.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+What's happening around that star?
+
+An unusual spiral structure has been discovered around the Milky Way star 
+<a href="http://www.eso.org/public/news/eso1239/">R Sculptoris</a>, a red giant star 
+<a href="https://www.youtube.com/watch?v=_ICtbIDdwZY">located</a> 
+about 1,500 light years away toward the constellation of the Sculptor 
+(<a href="http://en.wikipedia.org/wiki/Sculptor_%28constellation%29">Sculptoris</a>).
+
+The <a href="http://www.eso.org/public/images/eso1239a/">star</a> was observed with the new 
+<a href="http://www.almaobservatory.org/">Atacama Large Millimeter/submillimeter Array</a> 
+(ALMA), the most powerful telescopic array observing near 
+millimeter wavelengths, 
+that part of the spectrum situated well beyond red light but before microwaves and radio waves.
+
+Data from <a href="ap111123.html">ALMA</a> observations was used to 
+create a 3D 
+<a href="https://www.youtube.com/watch?v=zvJss-EI4KE">visualization</a> 
+of the gas and dust immediately surrounding the star.
+
+A digital slice through this data showed the unexpected 
+<a href="ap120107.html">spiral structure</a>.
+
+Although unusual, a similar spiral pattern was discovered in visible light recently around 
+<a href="ap100914.html">LL Pegasi</a>.
+
+Upon analyzing the data, a 
+<a href="http://adsabs.harvard.edu/abs/2012arXiv1210.3030M">hypothesis was drawn</a> 
+that the red giant star in R Sculptoris might be puffing gas toward an unseen 
+<a href="ap970219.html">binary companion star</a>.
+
+The dynamics of 
+<a href="http://blogs.discovermagazine.com/badastronomy/tag/r-sculptoris/">this system</a> 
+might be particularly insightful because it may be giving clues as to how 
+<a href="http://en.wikipedia.org/wiki/Giant_stars">giant stars</a> 
+evolve toward the end of their lives -- and so release some constituent 
+elements back to the 
+<a href="ap100829.html">interstellar medium</a> 
+so that new stars may form.
+
+
+
+</p>, 'title': u' A Spiral Nebula Surrounding Star R Sculptoris '}, 'image/1211/ngc1365sn_pugh_2141.jpg': {'url': 'http://apod.nasa.gov/apod/ap121124.html', 'timestamp': u'2012 November 24', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/ngc1365sn_pugh_2141.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Barred <a href="http://www.seds.org/messier/spir.html">spiral galaxy</a>
+NGC 1365 is truly a majestic
+<a href="ap100109.html">island universe</a> some 200,000
+light-years across.
+
+Located a mere 60 million light-years away toward the
+chemical constellation
+<a href="http://www.hawastsoc.org/deepsky/for/index.html">Fornax</a>,
+NGC 1365 is a dominant member of the well-studied
+<a href="http://heritage.stsci.edu/2005/09/supplemental.html">Fornax
+galaxy cluster</a>.
+
+This sharp color image shows intense
+star forming regions at the ends of the bar and along the
+spiral arms, and details of dust lanes cutting
+across the galaxy's bright core.
+
+At the core lies a supermassive black hole.
+
+Astronomers think
+<a href="http://arxiv.org/abs/0907.2602">NGC 1365's</a>
+prominent bar plays a crucial role in the
+<a href="http://hubblesite.org/newscenter/archive/releases/
+1999/34/">galaxy's evolution</a>, drawing gas and dust into a
+star-forming maelstrom and ultimately feeding material into the
+<a href="http://hubblesite.org/newscenter/archive/releases/
+2000/22">central black hole</a>.
+
+Discovered on October 27, the position of a
+bright supernova is indicated in NGC 1365.
+
+Cataloged as
+<a href="http://www.rochesterastronomy.org/sn2012/
+sn2012fr.html">SN2012fr</a>, the
+<a href="http://en.wikipedia.org/wiki/Type_Ia_supernova">type Ia
+supernova</a> is the
+explosion of a white dwarf star.
+
+</p>, 'title': u' NGC 1365: Majestic Spiral with Supernova '}, 'image/1209/seasons_tezel_1080.jpg': {'url': 'http://apod.nasa.gov/apod/ap120923.html', 'timestamp': u'2012 September 23 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/seasons_tezel_1080.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+Yesterday was an equinox, a date when day and night are equal.  
+
+Today, and every day until the next
+<a href="http://en.wikipedia.org/wiki/Equinox">equinox</a>,
+the night will be longer than the day in Earth's northern hemisphere,
+and the day will be longer than the night in Earth's southern hemisphere.
+
+An <a href="ap040320.html">equinox</a>
+occurs midway between the two
+<a href="http://en.wikipedia.org/wiki/Solstice">solstice</a>s,
+when the days and nights are the least equal.
+
+The picture is a composite of hourly images taken of the Sun above
+<a href="http://en.wikipedia.org/wiki/Bursa">Bursa</a>,
+<a href="http://en.wikipedia.org/wiki/Turkey">Turkey</a> on key days from solstice to
+<a href="http://www.youtube.com/watch?v=DSdDeooDQEY">equinox</a> to solstice.
+
+The bottom Sun band was taken during the
+<a href="ap071222.html">winter solstice</a> in 2007 December, when
+the Sun could not rise very high in the sky nor stay above the
+horizon very long.   
+
+This lack of Sun caused
+<a href="ap041130.html">winter</a>.
+
+The top Sun band was taken during the
+<a href="ap060621.html">summer solstice</a> in 2008 June, when the
+Sun rose highest in the 
+<a href="https://www.facebook.com/APOD.Sky">sky</a> and 
+stayed above the horizon for more than 12 hours.  
+
+This abundance of Sun caused
+<a href="ap080705.html">summer</a>.
+
+The middle band was taken during the
+<a href="http://www.windows.ucar.edu/tour/link=/the_universe/uts/equinox.html">Vernal Equinox</a> in 2008 March, but it is the same sun band that
+<a href="ap080421.html">Earthlings</a> saw yesterday, the day of the
+<a href="http://www.erh.noaa.gov/box/equinox.html">Autumnal Equinox</a>.
+
+
+</p>, 'title': u' Equinox: The Sun from Solstice to Solstice '}, 'image/1211/methone_cassini_765.jpg': {'url': 'http://apod.nasa.gov/apod/ap121106.html', 'timestamp': u'2012 November 6 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/methone_cassini_765.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Why is this moon shaped like a smooth egg?
+
+The robotic Cassini spacecraft completed the first flyby ever of Saturn's small moon 
+<a href="http://saturn.jpl.nasa.gov/science/moons/methone/">Methone</a> 
+in May and discovered that the moon has no obvious craters.
+
+Craters, usually caused by impacts, have been seen on every 
+<a href="ap070225.html">moon</a>, 
+<a href="ap100726.html">asteroid, and comet nucleus</a> 
+ever imaged in detail -- until now. 
+
+Even the <a href="ap990711.html">Earth</a> and 
+<a href="ap041124.html">Titan</a> have 
+<a href="ap971110.html">craters</a>.
+
+The smoothness and egg-like shape of the 
+<a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/05211206.html">3-kilometer diameter moon</a> might be caused by 
+<a href="http://en.wikipedia.org/wiki/Methone_%28moon%29">Methone</a>'s 
+surface being able to shift -- 
+something that might occur were the moon coated by a deep 
+<a href="https://www.youtube.com/watch?v=nzyettXkIqY">pile</a> of sub-visual 
+<a href="http://en.wikipedia.org/wiki/Rubble_pile">rubble</a>.
+
+If so, the most similar objects in our Solar System would include Saturn's moons 
+<a href="ap060222.html">Telesto</a>, 
+<a href="ap051123.html">Pandora</a>, 
+<a href="ap100217.html">Calypso</a>, as well as asteroid 
+<a href="ap070422.html">Itokawa</a>, 
+all of which show sections that are unusually smooth.
+
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA14633">Methone</a> 
+is not entirely featureless, though, as some surface sections 
+<a href="ap120113.html">appear darker</a> than others.
+
+Although flybys of Methone are 
+<a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/05211206.html">difficult</a>, interest in the nature and 
+history of this unusual moon is sure to continue.
+
+
+</p>, 'title': u' Methone: Smooth Egg Moon of Saturn '}, 'image/1209/M57burgeot.png': {'url': 'http://apod.nasa.gov/apod/ap120915.html', 'timestamp': u'2012 September 15', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/M57burgeot.png', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://messier.seds.org/planetar.html">A planetary nebula</a>
+with a <a href="ap110218.html">simple symmetry</a> familiar to
+telescopic sky gazers, the Ring Nebula (<a href="ap040704.html">M57</a>)
+is some 2,000 light-years
+away in the musical constellation Lyra.
+
+Hints of changing colors and subtle details are brought out in
+<a href="https://picasaweb.google.com/101134302181024755891/
+NebuleusesPlanetaires?
+authkey=Gv1sRgCLWZwcCBi4z63gE#5782118144837083266">this remarkable sketch</a>
+of the <a href="ap030516.html">cosmic ring</a>.
+
+The sketch was made with 800x magnification and
+excellent seeing conditions directly
+<a href="http://www.asod.info/">at the eyepiece</a> of
+a 40 inch reflecting telescope.  
+
+Colored pencils on white paper were used to create the original
+drawing, shown here digitally scanned with an inverted palette applied.
+
+About one light-year across, the nebula is composed
+of outer layers expelled from a dying, once sun-like star.
+
+Intense ultraviolet light from the hot central star
+ionizes atoms in the gas and powers the nebular glow.
+
+<a href="ap051223.html">Ionized hydrogen</a> adds a reddish tint.
+
+Ionized oxygen produces a characteristic blue-green color.
+
+<a href="http://www.youtube.com/watch?v=9rzc-q6m7Ao">Difficult to see</a>
+under average conditions with small telescopes, the
+<a href="http://www.youtube.com/watch?v=Oyn3ziBvG8I">Ring Nebula's</a>
+central star was visible at all times during the artist's study.
+
+</p>, 'title': u' Ring Nebula Drawn'}, 'image/1210/xdf_hubble_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121014.html', 'timestamp': u'2012 October 14 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/xdf_hubble_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+What did the first galaxies look like?
+
+To help answer this question, the Hubble Space Telescope has just finished taking the 
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/37/">eXtreme Deep Field</a> (XDF), the deepest image of the universe ever taken in 
+<a href="http://science.hq.nasa.gov/kids/imagers/ems/visible.html">visible light</a>.  
+
+Pictured above, the <a href="http://en.wikipedia.org/wiki/Hubble_Extreme_Deep_Field">XDF</a> shows a sampling of some of the 
+<a href="ap040217.html">oldest galaxies</a> ever seen, 
+galaxies that formed just after the 
+<a href="http://adsabs.harvard.edu/abs/2003Sci...300.1904M">dark ages</a>, 13 billion years ago, when the universe was 
+only a few percent of its present age.  
+
+The <a href="ap010806.html">Hubble Space Telescope</a>'s 
+<a href="http://www.stsci.edu/hst/acs/">ACS</a> camera and the infrared channel 
+of the <a href="http://www.stsci.edu/hst/wfc3">WFPC3</a> camera took 
+<a href="https://www.youtube.com/watch?v=odprMkzOst8">the image</a>. 
+
+Combining efforts spread over 10 years, the 
+<a href="http://www.nasa.gov/mission_pages/hubble/science/xdf.html">XDF</a> is more sensitive, in some colors, 
+than the original <a href="ap020901.html">Hubble Deep Field</a> (HDF), the 
+<a href="ap040929.html">Hubble Ultra Deep Field</a> (HUDF) completed in 2004, and the 
+<a href="ap091209.html">HUDF Infrared</a> completed in 2009.
+
+Astronomers the world over will likely study the 
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/37/image/a/">XDF</a> for years to come to
+better understand how stars and galaxies formed in the early universe. 
+
+
+</p>, 'title': u' The Hubble Extreme Deep Field '}, 'image/1211/bailysbeads_durman_4015.jpg': {'url': 'http://apod.nasa.gov/apod/ap121111.html', 'timestamp': u'2012 November 11 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/bailysbeads_durman_4015.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Just before the Sun blacks out, something strange occurs.
+
+As the Moon moves to completely cover the Sun in a 
+<a href="http://eclipse.gsfc.nasa.gov/eclipse.html">total solar
+eclipse</a> -- like the 
+<a href="http://en.wikipedia.org/wiki/Solar_eclipse_of_November_13,_2012">one set</a> to occur over parts of Australia 
+<a href="http://science.nasa.gov/science-news/science-at-nasa/2012/07nov_totaleclipse/">on Tuesday</a> -- 
+beads of <a href="ap060917.html">bright sunlight stream</a> 
+around the edge of the Moon.
+
+This effect, known as 
+<a href="http://en.wikipedia.org/wiki/Baily%27s_beads">Baily's beads</a>,
+is named after 
+<a href="http://en.wikipedia.org/wiki/Francis_Baily">Francis Baily</a> 
+who called attention to the 
+<a href="http://adsabs.harvard.edu/abs/2000eaa..bookE5118.">phenomenon</a>
+in 1836.  
+
+Although, the number and brightness of 
+<a href="http://www.exploratorium.edu/eclipse/what2.html">Baily's beads</a> used to be unpredictable, today the Moon 
+is so well mapped that general features regarding Baily's beads are expected.
+
+When a single bead dominates, it is called the 
+<a href="http://www.alpo-astronomy.org/eclipse/observeeclipses/chapter9.htm">diamond ring effect</a>,
+and is typically seen just before totality.  
+
+Pictured above, horizontally compressed, 
+a series of images recorded Baily's beads at times
+surrounding the <a href="ap080807.html">2008 total solar eclipse</a>
+visible from 
+<a href="http://en.wikipedia.org/wiki/Novosibirsk">Novosibirsk</a>, 
+<a href="http://en.wikipedia.org/wiki/Russia">Russia</a>.
+
+At the end of totality, as the Sun again emerges from behind the moon, 
+<a href="ap090808.html">Baily's beads</a>
+may again be visible -- but now on the other side of the Moon.
+
+
+</p>, 'title': u" Baily's Beads near Solar Eclipse Totality "}, 'image/1209/shuttlelax_confer_3628.jpg': {'url': 'http://apod.nasa.gov/apod/ap120926.html', 'timestamp': u'2012 September 26 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/shuttlelax_confer_3628.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+It's not every day that a space shuttle lands at LAX.
+
+Although this was a first for the major Los Angeles airport hub, it was a last for the space shuttle Endeavour, as it completed its tour of California skies and
+<a href="http://www.youtube.com/watch?v=UyPLjVPSdCg">landed</a>, albeit atop a 
+<a href="http://en.wikipedia.org/wiki/Boeing_747">747</a>,
+for the last time.
+
+During its <a href="http://www.space.com/17711-space-shuttle-endeavour-california-flight-viewing.html">last flight</a> the iconic shuttle and its chase planes were photographed near several of California's own icons including the <a href="http://farm9.staticflickr.com/8309/8009968320_f675eab16e_k.jpg">Golden Gate</a>
+<a href="http://en.wikipedia.org/wiki/Golden_Gate_Bridge">Bridge</a> in
+<a href="http://en.wikipedia.org/wiki/San_Francisco">San Francisco</a>, the
+<a href="http://www.theglobeandmail.com/multimedia/camera-club/in-photos/best-pictures-of-the-past-24-hours/article4561127/">Hollywood</a>
+<a href="http://en.wikipedia.org/wiki/Hollywood_sign">Sign</a>,
+and the
+<a href="http://framework.latimes.com/2012/09/19/endeavour-photos/#/10">skyline of Los Angeles</a>.
+
+Previously, in May, the space shuttle Enterprise was
+<a href="ap120509.html">captured passing</a> behind several of New York City's icons on its way to the
+<a href="http://www.intrepidmuseum.org/">Intrepid Sea, Air, &amp; Space Museum</a>.
+
+Pictured above, the
+<a href="ap070708.html">piggybacking shuttle</a>
+was snapped
+<a href="http://www.youtube.com/watch?v=a95MB8eucYM">on approach</a> last week to 
+<a href="http://en.wikipedia.org/wiki/LAX">LAX</a>
+as it crossed above and beyond a major Los Angeles street.
+
+Now retired, the space shuttles are all museum pieces, with the above shuttle scheduled to be towed along the streets of LA to the
+<a href="http://www.californiasciencecenter.org/">California Science Center</a>.
+
+
+</p>, 'title': u' A Space Shuttle Over Los Angeles '}, 'image/1210/m8m20_panstarrs.jpg': {'url': 'http://apod.nasa.gov/apod/ap121012.html', 'timestamp': u'2012 October 12', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/m8m20_panstarrs.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+A single field from the world's most powerful survey instrument
+captures this spectacular skyview.
+
+Looking toward Sagittarius, the scene spans
+nearly 3 degrees or six times the width of the Full Moon.
+
+At bottom, upper right, and lower left it covers
+<a href="ap120601.html">the Lagoon Nebula (M8), the Trifid Nebula (M20),
+and NGC 6559</a>, in the crowded, dusty starfields of the
+<a href="ap090925.html">central Milky Way</a>.
+
+The adopted color scheme shows dust reddened starlight
+in red hues and normally red emission from hydrogen atoms in green.
+
+Built and operated by the
+<a href="http://pan-starrs.ifa.hawaii.edu">Pan-STARRS</a> project,
+the instrument
+features a 1.4 gigapixel (billion pixel) digital camera and telescope.
+
+Pan-STARRS, the Panoramic Survey Telescope &amp; Rapid Response System,
+is intended to scan the skies for potentially dangerous
+<a href="http://pan-starrs.ifa.hawaii.edu/public/asteroid-threat/
+asteroid_threat.html">near-earth asteroids and comets</a>,
+exploring the Universe with a unique
+<a href="http://pan-starrs.ifa.hawaii.edu/public/design-features/
+wide-field.html">high resolution, wide field view</a>.
+
+</p>, 'title': u' Pan-STARRS and Nebulae '}, 'image/1212/UmbraWorldMammanaTSE2012.jpg': {'url': 'http://apod.nasa.gov/apod/ap121214.html', 'timestamp': u'2012 December 14', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/UmbraWorldMammanaTSE2012.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+On the morning of November 14, sky gazers from around
+the world gathered on this little planet to stand in the dark
+<a href="http://www.inconstantmoon.com/cyc_ecl1.htm">umbral shadow
+of the Moon</a>.
+
+Of course, the Moon cast the shadow during last month's
+<a href="ap121116.html">total solar eclipse</a>,
+and the little planet is actually a beach
+on Green Island off the coast of Queensland, Australia.
+
+The picture itself, the first
+<a href="ap120111.html">little planet projection</a>
+of a total solar eclipse, is a digitally warped and stitched
+wrap-around of 8 images covering 360x180 degrees.
+
+To make it, the intrepid photographer had to remember to shoot
+both toward and away(!) from the eclipse during the excitement
+<a href="ap121210.html">of totality</a>.
+
+Near this little planet's horizon,
+the eclipsed Sun is just above center,
+surrounded by the
+<a href="http://www.zam.fme.vutbr.cz/~druck/eclipse/Ecl2012a/
+Tse2012a_816mm_ce/0-info.htm">glowing solar corona</a>.
+
+Venus can be spotted in the shadow-darkened sky
+toward the top of the frame.
+
+At bottom right, bright star Sirius shines at the tip of an
+<a href="http://www.flickr.com/photos/gadl/sets/
+72157594279945875/">alarmingly tall</a> tree.
+
+</p>, 'title': u' Umbra World '}, 'image/1212/SGU-Paranal-Geminids-1200x800-cp10.jpg': {'url': 'http://apod.nasa.gov/apod/ap121215.html', 'timestamp': u'2012 December 15', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/SGU-Paranal-Geminids-1200x800-cp10.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+From a radiant point in the constellation of the Twins, the
+<a href="http://asterisk.apod.com/viewtopic.php?f=29&amp;t=30347&amp;p=189419">annual
+Geminid meteor shower</a> rained down on planet Earth this week.
+
+Recorded near the shower's peak in the early hours of December 14,
+<a href="http://www.astrosurf.com/sguisard/Pagim/
+Paranal-Geminids.html">this skyscape captures</a>
+Gemini's lovely shooting stars
+in a careful composite of 30 exposures, each 20 seconds long,
+from the dark of the Chilean Atacama Desert over ESO's
+<a href="ap110811.html">Paranal Observatory</a>.
+
+In the foreground Paranal's four
+<a href="ap111228.html">Very Large Telescopes</a>, four
+<a href="ap120421.html">Auxillary Telescopes</a>, and the
+<a href="ap110630.html">VLT Survey telescope</a>
+are all open and observing.
+
+The skies above are shared with bright Jupiter (left), Orion, (top
+left), and the faint light of the Milky Way.
+
+Dust swept up from the orbit of
+<a href="http://arxiv.org/abs/1112.5220">active asteroid</a>
+<a href="http://arxiv.org/abs/1009.2710">3200 Phaethon</a>,
+Gemini's meteors enter the atmosphere traveling
+at about 22 kilometers per second.
+
+</p>, 'title': u' When Gemini Sends Stars to Paranal '}, 'image/1210/mbp_2011-11_Simeis147Andreo.jpg': {'url': 'http://apod.nasa.gov/apod/ap121009.html', 'timestamp': u'2012 October 9', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/mbp_2011-11_Simeis147Andreo.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+It's easy to get lost following the intricate filaments in this
+<a href="http://blog.deepskycolors.com/archive/2011/12/08/
+simeis-147-and-surroundings.html">detailed mosaic image</a> of faint
+<a href="http://chandra.harvard.edu/xray_sources/
+supernovas.html">supernova remnant</a> Simeis 147 (S147).
+
+Also cataloged as Sh2-240,
+it covers nearly 3 degrees or 6 full moons on the sky.
+
+That's about 150 light-years at
+the stellar debris cloud's estimated distance of 3,000 light-years.
+
+Anchoring the frame at the right, bright star
+<a href="http://stars.astro.illinois.edu/sow/elnath.html">Elnath</a>
+(Beta Tauri) is <a href="ap101220.html">seen towards</a> the boundary of the
+constellations
+<a href="http://www.allthesky.com/constellations/taurus/">Taurus</a>
+and Auriga, almost exactly opposite the galactic center
+in planet Earth's sky.
+
+This sharp composite includes image data taken through
+a narrow-band filter to highlight emission from hydrogen atoms
+tracing the <a href="ap090108.html">shocked, glowing gas</a>.
+
+The supernova remnant has an estimated age of about 40,000
+years, meaning light from the massive stellar explosion first
+reached Earth 40,000 years ago.
+
+But the expanding remnant is not the only
+<a href="ap011026.html">aftermath</a>.
+
+The cosmic catastrophe
+<a href="http://arxiv.org/abs/astro-ph/0611068">also left behind</a>
+a spinning neutron star or pulsar,
+<a href="http://hubblesite.org/newscenter/newsdesk/archive/releases/
+1996/22/astrofile/#2">all that remains</a> of the original star's core.
+
+</p>, 'title': u' Simeis 147: Supernova Remnant '}, 'image/1211/leonidsmonuments_sabatini_2330.jpg': {'url': 'http://apod.nasa.gov/apod/ap121119.html', 'timestamp': u'2012 November 19 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/leonidsmonuments_sabatini_2330.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+What's happening in the sky over 
+<a href="http://en.wikipedia.org/wiki/Monument_Valley">Monument Valley</a>?
+
+A meteor shower.
+
+Over the past weekend the 
+<a href="http://en.wikipedia.org/wiki/Leonids">Leonid meteor shower</a> has
+been peaking.  
+
+The image -- actually a composite of six exposures of about 30 seconds
+each -- was taken in 2001, a year when there was a <i>much</i> more active 
+<a href="ap101212.html">Leonids shower</a>.
+
+At that time, Earth was moving through a particularly dense swarm
+of sand-sized debris from 
+<a href="http://cometography.com/pcomets/055p.html">Comet Tempel-Tuttle</a>, 
+so that meteor rates approached one visible streak per second.
+
+The <a href="http://en.wikipedia.org/wiki/Meteoroid">meteors</a>
+appear parallel because they all fall to Earth from the 
+<a href="http://en.wikipedia.org/wiki/
+Radiant_%28meteor_shower%29">meteor shower radiant</a> -- 
+a point on the sky towards the constellation of the Lion 
+(<a href="http://en.wikipedia.org/wiki/Leo_%28constellation%29">Leo</a>).
+
+Although the predicted peak of
+<a href="http://www.skyandtelescope.com/observing/home/
+Leonid-2012-Meteor-Shower-179662931.html">this year's
+Leonid meteor shower</a> is over,
+another peak may be visible early tomorrow morning.
+
+By the way -- 
+<a href=" http://asterisk.apod.com/discuss_apod.php?date=121119">how many meteors can you identify</a> 
+in the above image?
+
+
+</p>, 'title': u' Leonids Over Monument Valley '}, 'image/1209/selfportrait_iss032_4288.jpg': {'url': 'http://apod.nasa.gov/apod/ap120918.html', 'timestamp': u'2012 September 18 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/selfportrait_iss032_4288.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+Is it art?
+
+Earlier this month, space station astronaut 
+<a href="http://en.wikipedia.org/wiki/Akihiko_Hoshide">Aki Hoshide</a> 
+(<a href="http://en.wikipedia.org/wiki/Japan">Japan</a>) recorded 
+<a href="http://spaceflight.nasa.gov/gallery/images/station/crew-32/html/iss032e025258.html">this striking image</a> while helping to augment the capabilities of the Earth-orbiting 
+<a href="http://iss.jaxa.jp/en/">International Space Station</a> (ISS). 
+
+Visible in this outworldly assemblage is the Sun, 
+the Earth, two portions of a robotic arm, an astronaut's spacesuit, 
+the deep darkness of space, and the <a href="http://www.nasa.gov/home/hqnews/2012/jul/HQ_12-241_ISERV_Launches_to_ISS.html">unusual camera</a> taking the picture.
+
+This image joins other historic -- and possibly 
+<a href="http://abcnews.go.com/2020/popup?id=527562">art</a>istic -- 
+<a href="ap060121.html">self-portraits</a>
+<a href="ap060719.html">taken</a>
+<a href="ap080123.html">previously</a> in space.
+
+The <a href="http://www.nasa.gov/pdf/668459main_exp32_summary.pdf">Expedition 32 mission</a> 
+ended yesterday when an <a href="http://en.wikipedia.org/wiki/Soyuz_spacecraft">attached capsule</a> undocked with the ISS and 
+<a href="http://en.wikipedia.org/wiki/Soyuz_TMA-04M">returned</a> some of the crew to Earth.
+
+
+</p>, 'title': u' Orbiting Astronaut Self-Portrait '}, 'image/1210/MedusaCrawford_NC.jpg': {'url': 'http://apod.nasa.gov/apod/ap121025.html', 'timestamp': u'2012 October 25', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/MedusaCrawford_NC.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Braided, serpentine filaments of glowing gas
+suggest this nebula's popular name, The Medusa Nebula.
+
+Also known as Abell 21, this Medusa is an old
+<a href="http://www.seds.org/messier/planetar.html">planetary nebula</a>
+some 1,500 light-years away in the constellation
+<a href="http://en.wikipedia.org/wiki/Gemini_(constellation)">Gemini</a>.
+
+Like its <a href="http://en.wikipedia.org/wiki/Medusa">mythological</a>
+namesake, the nebula is associated
+with a dramatic transformation.
+
+The <a href="http://www.noao.edu/jacoby/pn_gallery.html">planetary
+nebula</a> phase represents a final stage in
+<a href="http://casswww.ucsd.edu/public/tutorial/StevI.html">the
+evolution</a> of low mass stars
+<a href="http://www.astro.washington.edu/balick/WFPC2/">like the
+sun</a>,
+as they transform themselves from
+<a href="http://en.wikipedia.org/wiki/Red_giant">red giants</a>
+to hot white dwarf
+stars and in the process shrug off their outer layers.
+
+Ultraviolet
+<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/ems1.html">radiation</a>
+from the hot star powers the nebular glow.
+
+The Medusa's transforming star is near the center of the overall bright
+crescent shape.
+
+In <a href="http://www.imagingdeepsky.com/Nebulae/Medusa/Medusa.htm">this
+deep telescopic view</a>, fainter filaments clearly extend
+below and to the left of the bright crescent region.
+
+The Medusa Nebula is estimated to be over 4 light-years across.
+
+</p>, 'title': u' The Medusa Nebula '}, 'image/1209/NGC7023HallasHDR.jpg': {'url': 'http://apod.nasa.gov/apod/ap120929.html', 'timestamp': u'2012 September 29', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/NGC7023HallasHDR.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Like delicate cosmic petals, these clouds of interstellar dust and gas
+have blossomed 1,300 light-years away in the fertile
+star fields of the <a href="http://www.astropix.com/HTML/E_SUM_N/
+CEPHEUSO.HTM">constellation Cepheus</a>.
+
+Sometimes called the Iris Nebula and dutifully cataloged as
+NGC 7023 this is not the only nebula in the
+sky to evoke the imagery <a href="ap080214.html">of flowers</a>.
+
+Still, this
+<a href="http://astrophoto.com/NGC7023.htm">remarkable
+image</a> shows off the Iris Nebula's range of
+colors and symmetries in impressive detail. 
+
+<a href="http://www.spacetelescope.org/videos/heic0915b/">Within
+the Iris</a>, dusty nebular material surrounds a hot,
+young star.
+
+The dominant color of the brighter reflection nebula is blue,
+<a href="http://leo.astronomy.cz/mix/mix.html">characteristic
+of dust</a> grains reflecting starlight.
+
+<a href="http://www.spacetelescope.org/news/heic0915/">Central
+filaments</a> of the dusty clouds glow with a faint reddish
+photoluminesence as some dust grains
+<a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?
+bibcode=1989ApJ...347L..25W&amp;db_key=AST&amp;high=3bc4bede8e21358">effectively
+convert</a> the star's invisible
+<a href="http://imagers.gsfc.nasa.gov/ems/uv.html">ultraviolet</a>
+radiation to visible red light.
+
+Infrared <a href="http://cdsads.u-strasbg.fr/cgi-bin/
+nph-bib_query?2000A%26A...354L..17M&amp;db_key=AST&amp;nosetcookie=1">observations</a>
+indicate that this nebula may contain
+complex carbon molecules known as
+<a href="http://legacy.spitzer.caltech.edu/features/
+articles/20050627.shtml">PAHs</a>.
+
+The bright blue portion of the Iris Nebula is about six light-years across.
+
+
+</p>, 'title': u' NGC 7023: The Iris Nebula '}, 'image/1209/Analemma2012Tezel.jpg': {'url': 'http://apod.nasa.gov/apod/ap120920.html', 'timestamp': u'2012 September 20', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/Analemma2012Tezel.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap101231.html">An analemma</a> is that figure-8 curve that
+you get when you
+<a href="http://www.twigsdigs.com/sundials/office/">mark the position
+of the Sun</a> at the same time each day
+<a href="http://www.youtube.com/watch?v=8mfm3yQW16g">throughout
+planet Earth's year</a>.
+
+In this case, a composite of 17 individual images taken at 0231 UT
+on dates between April 2 and September 16 follows half the analemma curve.
+
+The scene looks east
+toward the rising sun and the Caspian sea from the boardwalk in the port
+city of Baku, Azerbaijan.
+
+With the sun nearest the horizon, those dates almost span the period
+between the 2012 <a href="ap100923.html">equinoxes</a> on
+March 20 and September 22.
+
+The northern summer <a href="ap120626.html">Solstice</a>
+on June 20  corresponds to the top of the
+figure 8 at the left, when the Sun stood at its northernmost
+declination.
+
+<a href="ap061230.html">Of course</a>,
+this year the exposure made on June 6 contained a little
+something extra.
+ 
+Slightly enhanced, the little black spot on the bright solar disk near
+the top of the frame is planet Venus, caught in
+<a href="ap120620.html">a rare transit</a> during
+this well-planned sunrise analemma project.
+
+</p>, 'title': u' Sunrise Analemma (with a little extra)'}, 'image/1211/dione4_cassini_5669.jpg': {'url': 'http://apod.nasa.gov/apod/ap121105.html', 'timestamp': u'2012 November 5 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/dione4_cassini_5669.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Why does one half of Dione have more craters than the other?
+
+Start with the fact that 
+<a href="http://en.wikipedia.org/wiki/Saturn">Saturn</a>'s moon Dione 
+has one side that always faces Saturn, and one side that always faces away.  
+
+This is similar to 
+<a href="ap051113.html">Earth's Moon</a>.
+
+This <a href="http://en.wikipedia.org/wiki/Tidal_locking">tidal locking</a> 
+means that one side of 
+<a href="http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sat_Dione">Dione</a> always leads as the moon progresses in its orbit, 
+while the other side always trails.  
+
+<a href="http://en.wikipedia.org/wiki/Dione_%28moon%29">Dione</a> 
+should therefore have undergone a significant number of impacts on its leading half.
+
+Strangely, the current leading half of 
+<a href="ap060905.html">Dione</a> 
+is <i>less</i> cratered than the trailing half.  
+
+A leading explanation is that some crater-forming impacts were so large they spun 
+<a href="http://www.lpi.usra.edu/meetings/lpsc2005/pdf/2034.pdf">Dione</a>, 
+changing the part that suffered the highest impact rate before the 
+moon's spin again became locked.  
+
+The <a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/10231223-huge-dione-mosaic.html">above detailed image</a> of Dione highlighting the moon's subtle hues 
+is a meticulously-constructed mosaic -- 
+by an dedicated amateur -- 
+of pictures taken during the April 2010 
+<a href="https://www.youtube.com/watch?v=Q4bVJjrjbvE">flyby of Dione</a> by NASA's robotic 
+<a href="http://www.nasa.gov/mission_pages/cassini/spacecraft/index.html">Cassini spacecraft</a>.
+
+
+</p>, 'title': u" Saturn's Moon Dione in Slight Color "}, 'image/1209/pencil_eso_4000.jpg': {'url': 'http://apod.nasa.gov/apod/ap120924.html', 'timestamp': u'2012 September 24 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/pencil_eso_4000.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+This <a href="http://en.wikipedia.org/wiki/Shock_wave">shock wave</a>
+plows through space at over 500,000 kilometers per hour.
+
+Moving toward to bottom of this
+<a href="http://www.eso.org/public/images/eso1236a/">beautifully
+detailed</a> color composite, the thin, braided filaments are actually
+long ripples in a sheet of glowing gas seen almost edge on.
+
+<a href="http://heritage.stsci.edu/2003/16/supplemental.html">Cataloged
+as NGC 2736</a>, its narrow 
+<a href="https://www.youtube.com/watch?v=-3kPZTXSg2o">appearance</a>
+suggests its popular name,
+<a href="http://www.nasa.gov/vision/universe/starsgalaxies/
+pencil_nebula.html">the Pencil Nebula</a>.
+
+About 5 light-years long and a mere 800 light-years away, the
+<a href="http://en.wikipedia.org/wiki/Pencil_Nebula">Pencil Nebula</a>
+is only a small part of the
+<a href="http://violet.pha.jhu.edu/~wpb/hstvela/hstvela.html">Vela
+supernova remnant</a>.
+
+The <a href="ap080306.html">Vela remnant itself</a>
+is around 100 light-years in diameter and is the expanding
+<a href="http://chandra.harvard.edu/xray_sources/supernovas.html">debris
+cloud of a star</a> that was seen to
+explode about 11,000 years ago.
+
+Initially, the <a href="http://www.youtube.com/watch?v=Num9TR7wlrw">shock wave</a> was moving at millions of kilometers
+per hour but has
+<a href="http://media.egotvonline.com/wp-content/uploads/2012/03/93-sleepy-dog.jpg?41ed4f">slowed considerably</a>, sweeping up
+surrounding interstellar gas.
+
+
+</p>, 'title': u' NGC 2736: The Pencil Nebula '}, 'image/1211/TadpoleGalaxyPS1V9snyder.jpg': {'url': 'http://apod.nasa.gov/apod/ap121108.html', 'timestamp': u'2012 November 8', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/TadpoleGalaxyPS1V9snyder.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+In <a href="http://billsnyderastrophotography.com/?page_id=2464">
+this stunning vista</a>, based on image data from
+the Hubble Legacy Archive,
+distant galaxies form a dramatic backdrop
+for disrupted spiral
+<a href="http://nedwww.ipac.caltech.edu/level5/Arp/frames.html">galaxy 
+Arp</a> 188, the Tadpole Galaxy.
+
+The <a href="http://hubblesite.org/newscenter/archive/releases/
+2002/11/fastfacts/">cosmic tadpole is</a>
+a mere 420 million light-years distant toward the
+northern constellation <a href="http://www.astro.wisc.edu/~dolan/
+constellations/constellations/Draco.html">Draco</a>.
+
+Its eye-catching tail is about 280 thousand light-years long and
+features massive, bright blue star clusters.
+
+One <a href="http://www.boop.org/jan/justso/">story</a> goes
+that a more compact intruder galaxy crossed in front
+of Arp 188 - from right to left in this view - and was
+<a href="http://burro.cwru.edu/JavaLab/GalCrashWeb/">slung
+around</a> behind the Tadpole by their gravitational attraction.
+
+During the
+<a href="ap120812.html">close encounter</a>, tidal forces drew out the
+<a href="ap120604.html">spiral galaxy's</a> stars, gas, and dust
+forming the spectacular tail.
+
+The <a href="ap970224.html">intruder</a> galaxy itself, estimated to
+lie about 300 thousand light-years behind the Tadpole,
+can be seen through foreground spiral arms at the upper right.
+
+<a href="http://www.exploratorium.edu/frogs/">Following</a>
+its terrestrial <a href="http://www.offwell.free-online.co.uk/
+metindex.htm">namesake</a>, the Tadpole Galaxy will likely lose
+<a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?
+bibcode=1972ApJ...178..623T&amp;db_key=AST&amp;high=3c862d41db22593">its
+tail</a> as it grows older, the tail's star clusters
+forming smaller satellites of the large spiral galaxy.
+
+</p>, 'title': u" Arp 188 and the Tadpole's Tail "}, 'image/1212/ngc922_hst_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121217.html', 'timestamp': u'2012 December 17 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/ngc922_hst_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Why does this galaxy have so many big black holes?
+
+No one is sure.
+
+What is sure is that
+<a href="http://www.youtube.com/watch?v=e_U42PDKstQ">NGC 922</a> is a ring galaxy created by the collision of a large and small galaxy about 
+<a href="http://en.wikipedia.org/wiki/Paleozoic">300 million years ago</a>.
+
+Like a <a href="http://www.youtube.com/watch?v=T9QwiBFN9gI">rock thrown into a pond</a>, the 
+<a href="ap981219.html">ancient collision</a> sent ripples of
+high density gas out from the impact point near the center that partly condensed into stars.
+
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/45/">Pictured above</a> is NGC 922 with its beautifully complex ring along the left side, as imaged recently by the 
+<a href="http://www.stsci.edu/hst/HST_overview">Hubble Space Telescope</a>.
+
+Observations of <a href="http://chandra.si.edu/photo/2012/ngc922/">NGC 922</a> with the 
+<a href="http://chandra.si.edu/about/">Chandra X-ray Observatory</a>, however, show several glowing <a href="http://chandra.si.edu/photo/2012/ngc922/ngc922_xray.jpg">X-ray knots</a> that are likely large black holes.
+
+The high number of <a href="http://chandra.harvard.edu/resources/podcasts/ts/ts061212_hd.html">massive black holes</a> was
+<a href="http://t2.gstatic.com/images?q=tbn:ANd9GcQoIIOgmOeBjFjLOtah-cK6OkgRk5PiGfdUSPxvZA_TUXw5DiXL">somewhat surprising</a> as the gas composition in 
+<a href="http://www.youtube.com/watch?v=atu4XOlXiMM">NGC 922</a> -- rich in heavy elements -- should have discouraged almost anything so massive from forming.  
+
+Research is sure to continue.
+
+<a href="http://en.wikipedia.org/wiki/NGC_922">NGC 922</a>
+spans about 75,000 light years, lies about 150 million light years away, and can be seen with a small telescope toward the constellation of the furnace (<a href="http://en.wikipedia.org/wiki/Fornax">Fornax</a>).
+
+
+
+</p>, 'title': u' NGC 922: Collisional Ring Galaxy '}, 'image/1210/pk164_caha_1866.jpg': {'url': 'http://apod.nasa.gov/apod/ap121030.html', 'timestamp': u'2012 October 30 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/pk164_caha_1866.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Is this what will become of our Sun?
+
+Quite possibly.
+
+The bubble of expanding gas
+<a href="http://pixinsight.com/gallery/PK164+31.1-CAHA/en.html">pictured above</a> is the planetary nebula PK 164 +31.1, the remnants of the atmosphere of a Sun-like star expelled as its supply of fusion-able core hydrogen became depleted.
+
+Visible near the center of
+<a href="http://astrofoto.es/Galeria/2012/PK164/PK164_CAHA_en.html">the nebula</a> is what remains of the core itself -- a blue-hot white dwarf star. 
+
+This particularly photogenic
+<a href="http://en.wikipedia.org/wiki/Planetary_nebula">planetary nebula</a> shows intricate shells of gas likely expelled at different times toward the end the star's demise, and whose structure is not fully understood.
+
+This deep image of PK 164 +31.1 from the
+<a href="http://en.wikipedia.org/wiki/Calar_Alto_Observatory">Calar Alto Observatory</a> in 
+<a href="http://en.wikipedia.org/wiki/Spain">Spain</a> shows many other stars from our own
+<a href="http://www.atlasoftheuniverse.com/galaxy.html">Milky Way Galaxy</a> as well as 
+<a href="http://asterisk.apod.com/viewtopic.php?f=24&amp;t=18005">several galaxies</a> far in the distance.
+
+<a href="http://www.hs.uni-hamburg.de/DE/Ins/Per/Kohoutek/kohoutek/WEBcgpn2/text2/index.html">PK</a> 164 +31, also known as
+<a href="http://en.wikipedia.org/wiki/Jones-Emberson_1">Jones-Emberson 1</a>, lies about 1,600 light years away toward the constellation of the Wildcat 
+(<a href="http://en.wikipedia.org/wiki/Lynx_(constellation)">Lynx</a>).
+
+Due to its faintness
+(<a href="http://en.wikipedia.org/wiki/Apparent_magnitude">magnitude</a> 17) and 
+<a href="ap000109.html">low surface brightness</a>, the object is only visible with a good-sized telescope.
+
+Although the <a href="ap011227.html">expanding nebula</a>
+will fade away over the next few thousand years, the
+<a href="ap100221.html">central white dwarf</a> may well survive for billions of years -- to when our universe may be a
+<a href="http://www.futuretimeline.net/beyond.htm">very different place</a>.
+
+</p>, 'title': u' Planetary Nebula PK 164 +31.1 '}, 'image/1209/PegasusDustDavis.jpg': {'url': 'http://apod.nasa.gov/apod/ap120928.html', 'timestamp': u'2012 September 28', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/PegasusDustDavis.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://stars.astro.illinois.edu/sow/markab.html">Bright
+star Markab</a> anchors this dusty skyscape.
+
+At the top right corner of the frame, Markab itself marks
+a corner of an asterism known as
+<a href="http://www.bpastro.org/index.php?
+page=the-great-square-of-pegasus">the Great Square</a>, found
+within the boundaries of the constellation Pegasus,
+<a href="http://www.ianridpath.com/startales/pegasus.htm">the
+flying horse</a>.
+
+The wide and deep telescopic view rides along for some
+5 degrees or about 10 times the
+<a href="ap061228.html">angular diameter</a> of the Full Moon,
+with <a href="ap091229.html">blue reflection nebulae</a>
+scattered around the scene.
+
+And even though this
+<a href="http://www.atlasoftheuniverse.com/galchart.html">line-of-sight
+looks</a> away from
+the plane of our Milky Way galaxy, it covers a region
+known to be filled with nearby molecular clouds.
+
+The associated dust clouds, high latitude
+<a href="http://ned.ipac.caltech.edu/level5/Bothun2/
+Bothun6_1_2.html">galactic cirrus</a>,
+are less than 1,000 light-years distant.
+
+Still apparent, but far beyond the Milky Way,
+are background galaxies, like the prominent
+<a href="ap010510.html">edge-on spiral</a> NGC 7497 near picture center.
+
+</p>, 'title': u' Stars in a Dusty Sky '}, 'image/1209/vestabehind_dawn_big.jpg': {'url': 'http://apod.nasa.gov/apod/ap120919.html', 'timestamp': u'2012 September 19 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/vestabehind_dawn_big.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+Next stop: Ceres.
+
+Last week the robotic Dawn spacecraft ended its year-long mission to asteroid 
+<a href="http://en.wikipedia.org/wiki/4_Vesta">Vesta</a>, becoming the first spacecraft ever to visit this far off world located between Mars and Jupiter, in the Solar System's 
+<a href="http://www.solstation.com/stars/asteroid.htm">main asteroid belt</a>.
+
+Many of the best images taken by Dawn at Vesta have been compiled into the 
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA15678">above encompassing view</a>.
+
+Vesta shows evidence of being a leftover from the early years of our Solar System, a 
+<a href="http://en.wikipedia.org/wiki/Protoplanet">building block</a> for rocky planets like 
+<a href="ap070325.html">Earth</a>.
+
+Vesta's ancient surface shows heavy cratering and 
+<a href="ap120514.html">long troughs</a> likely created by huge impacts.
+
+The minor planet's low gravity allows for 
+<a href="https://plus.google.com/u/1/103211579003359376826/posts">surface</a> features like 
+<a href="ap111128.html">huge cliffs</a> and a large mountain that reaches twice the height of Earth's 
+<a href="ap110417.html">Mount Everest</a>, visible at the image bottom.
+
+<a href="ap110802.html">Vesta</a>, however, spanning about 500 kilometers across, is only the <i>second</i> most massive object in the asteroid belt.
+
+And so, two weeks ago, <a href="http://dawn.jpl.nasa.gov/">Dawn</a> fired its gentle 
+<a href="http://www-spof.gsfc.nasa.gov/stargaze/Sionrock.htm">ion rockets</a> 
+and has begun chasing the most massive: 
+<a href="http://en.wikipedia.org/wiki/Ceres_%28dwarf_planet%29">Ceres</a>.
+
+If everything goes as planned, Dawn will reach Ceres in 
+<a href="http://images.gizmag.com/hero/mycopter.jpg">2015</a>.
+
+Ceres looks 
+<a href="ap070622.html">quite different</a> to the distant telescope -- 
+but what will Dawn find?
+
+</p>, 'title': u' Leaving Vesta '}, 'image/1210/GegenscheinMilkyWayTafreshi.jpg': {'url': 'http://apod.nasa.gov/apod/ap121020.html', 'timestamp': u'2012 October 20', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/GegenscheinMilkyWayTafreshi.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Ghostly apparitions of two fundamental planes
+in planet Earth's sky span this October all-sky view.
+
+The scene was captured from a
+<a href="http://www.mildredkennedy.com/Mildred_Kennedy-Stirling/
+A_Blog__Life_in_the_Northwoods/
+A_Blog__Life_in_the_Northwoods.html">lakeside campsite</a>
+under dark skies in northern Maine, USA.
+
+In it, the plane of our
+<a href="ap110520.html">Milky Way Galaxy</a> arcs above
+faint airglow along the horizon.
+
+<a href="ap120405.html">Zodiacal light</a>,
+a band of dust scattering sunlight along the solar system's
+<a href="http://en.wikipedia.org/wiki/Ecliptic">ecliptic plane</a>,
+stretches almost horizontally
+across the wide field and intersects the Milky way
+near a point marked by bright planet Jupiter.
+
+Right of Jupiter, past the
+<a href="ap111117.html">Pleiades</a> star cluster,
+is the brightening of the Zodiacal band known as the
+<a href="ap080507.html">Gegenschein</a>,
+also visible to the eye on that dark night.
+
+<a href="http://www.hwlongfellow.org/
+poems_poem.php?pid=106">Begirt with many a blazing star</a>
+and rising above the distant mountains,
+<a href="ap120119.html">Orion the hunter</a> is
+reflected in the lake's calm waters.
+
+</p>, 'title': u' Zodiacal Light and Milky Way '}, 'image/1212/47tuc_ederL.jpg': {'url': 'http://apod.nasa.gov/apod/ap121206.html', 'timestamp': u'2012 December 6', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/47tuc_ederL.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Globular star cluster 47 Tucanae is a jewel of the southern sky.
+
+Also <a href="http://www.seds.org/messier/xtra/ngc/n0104.html">known
+as NGC 104</a>, it roams
+<a href="http://csep10.phys.utk.edu/astr162/lect/milkyway/
+components.html">the halo</a> of our Milky Way Galaxy
+along with around 200 other <a href="http://en.wikipedia.org/wiki/
+Globular_cluster">globular star clusters</a>.
+
+The second brightest globular cluster (after
+<a href="ap100331.html">Omega Centauri</a>)
+as seen from planet Earth, it lies about 13,000 light-years away and
+can be spotted naked-eye near the
+<a href="ap100903.html">Small Magellanic Cloud</a> (SMC)
+in the constellation of
+<a href="http://www.hawastsoc.org/deepsky/tuc/">the Toucan</a>.
+
+Of course, the SMC is some 210,000 light-years
+distant, a satellite galaxy of our Milky Way and not physically close
+to 47 Tuc.
+
+Stars on the outskirts of the SMC are seen at the upper left of
+<a href="http://www.astroeder.com/47tuc_eder_en.html">this
+broad southern skyscape</a>.
+
+Toward the lower right with about the same
+<a href="ap080801.html">apparent</a> diameter as a Full
+Moon, dense cluster 47 Tuc is made up of several million
+<a href="ap080906.html">stars</a> in a
+<a href="http://www.astronomycafe.net/qadir/ask/a11508.html">volume</a>
+only about 120 light-years across.
+
+Away from the bright cluster core,
+the <a href="ap081218.html">red giants</a>
+of 47 Tuc are easy to pick out as yellowish tinted stars.
+
+Globular cluster 47 Tuc is also home to exotic
+<a href="ap050721.html">x-ray binary</a> star systems.
+
+</p>, 'title': u' 47 Tuc Near the Small Magellanic Cloud '}, 'image/1212/herca_vlahst_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121205.html', 'timestamp': u'2012 December 5 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/herca_vlahst_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Why does this galaxy emit such spectacular jets?
+
+No one is sure, but it is likely related to an active supermassive black hole at its center.
+
+The galaxy at the 
+<a href="http://heritage.stsci.edu/2012/47/caption.html">image center</a>, 
+Hercules A, appears to be a relatively normal 
+<a href="http://en.wikipedia.org/wiki/Elliptical_galaxy">elliptical galaxy</a> in visible light. 
+
+When <a href="http://www.nrao.edu/pr/2012/herca/">imaged</a> in 
+<a href="http://science.hq.nasa.gov/kids/imagers/ems/radio.html">radio waves</a>, however, tremendous 
+<a href="http://en.wikipedia.org/wiki/Plasma_%28physics%29">plasma</a> 
+jets over one million light years long appear. 
+
+Detailed analyses indicate that the central galaxy, also known as 
+<a href="http://adsabs.harvard.edu/abs/1996ApJ...465L...5B">3C 348</a>, 
+is actually over 1,000 times more massive than our Milky Way Galaxy, 
+and the central black hole is nearly 1,000 times more massive than the 
+<a href="http://en.wikipedia.org/wiki/Sgr_A*">black hole</a> at our 
+<a href="ap120702.html">Milky Way's</a> center.
+
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/47/image/a/">Pictured above</a> 
+is a visible light image obtained by the Earth-orbiting 
+<a href="http://www.nasa.gov/mission_pages/hubble/spacecraft/index.html">Hubble Space Telescope</a> 
+superposed with a radio image taken by the recently upgraded 
+<a href="http://www.vla.nrao.edu/">Very Large Array</a> (VLA) of radio telescopes in 
+<a href="http://en.wikipedia.org/wiki/New_Mexico">New Mexico</a>, 
+<a href="http://en.wikipedia.org/wiki/USA">USA</a>.
+
+The physics that creates 
+<a href="http://vimeo.com/54501105">the jets</a> remains a topic of 
+research with a likely energy source being infalling matter 
+<a href="ap100905.html">swirling toward</a> the central 
+<a href="http://adsabs.harvard.edu/abs/1993AmJPh..61..619N">black</a>
+<a href="http://apod.nasa.gov/htmltest/rjn_bht.html">hole</a>.
+
+
+</p>, 'title': u' Plasma Jets from Radio Galaxy Hercules A '}, 'image/1210/streambank_curiosity_965.jpg': {'url': 'http://apod.nasa.gov/apod/ap121002.html', 'timestamp': u'2012 October 2 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/streambank_curiosity_965.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Fresh evidence of an ancient stream has been found on Mars.
+
+The robotic rover 
+<a href="http://en.wikipedia.org/wiki/Curiosity_rover">Curiosity</a> 
+has run across unusual surface features that carry a strong resemblance to stream banks on Earth.
+
+Visible in the 
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA16156">above image</a>, 
+for example, is a small overhanging rock ledge that was quite possibly created by water erosion beneath.
+
+The texture of the ledge appears to be a 
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA16189">sedimentary conglomerate</a>, 
+the dried remains of many smaller rocks stuck together.
+
+Beneath the ledge are numerous small pebbles, possibly made smooth by tumbling in and around the once-flowing 
+<a href="https://plus.google.com/u/1/103211579003359376826/posts">stream</a>.
+
+Pebbles in the streambed likely fell there as the bank 
+<a href="http://www.youtube.com/watch?v=f62_MjB6-Ok">eroded</a>. 
+
+Circled at the upper right is a larger rock possibly also made smooth by 
+<a href="ap101127.html">stream</a> erosion.
+
+Curiosity has now discovered several indications of 
+<a href="http://www.youtube.com/watch?v=MVTyRNbsqk8">dried streambeds on Mars</a> 
+on  
+<a href="ap120910.html">its way</a> to its 
+<a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/09281210-glenelg-ho.html">present location</a> where it 
+will be exploring the 
+<a href="http://en.wikipedia.org/wiki/Glenelg,_Mars">unusual conjunction</a> 
+of three different types of landscape.
+
+</p>, 'title': u' An Ancient Stream Bank on Mars '}, 'image/1210/horsehead_kpno_1366.jpg': {'url': 'http://apod.nasa.gov/apod/ap121021.html', 'timestamp': u'2012 October 21 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/horsehead_kpno_1366.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+One of the most identifiable nebulae in the sky,
+the <a href="http://en.wikipedia.org/wiki/Horsehead_Nebula">Horsehead Nebula</a> in <a href="http://www.astro.wisc.edu/~dolan/constellations/constellations/Orion.html">Orion</a>, is part of a large, dark,
+<a href="ap090623.html">molecular cloud</a>.  
+
+Also known as <a href="http://en.wikipedia.org/wiki/Edward_Emerson_Barnard">Barnard</a> 33, the unusual shape was first
+<a href="http://www.seds.org/messier/xtra/ngc/b33.html">discovered</a> on a
+<a href="http://www.astro.virginia.edu/~afs5z/photography.html">photographic plate</a> in the late 1800s.  
+
+The red glow originates from
+<a href="http://periodic.lanl.gov/1.shtml">hydrogen</a>
+gas predominantly behind the nebula, ionized by the nearby bright star
+<a href="http://www.dibonsmith.com/ori_s.htm">Sigma Orionis</a>.  
+
+The darkness of the
+<a href="ap061015.html">Horsehead</a> is caused mostly by thick
+<a href="ap030706.html">dust</a>,
+although the lower part of the
+<a href="ap081126.html">Horsehead</a>'s neck casts a shadow to the left.  
+
+Streams of gas leaving
+<a href="http://www.youtube.com/watch?v=hgTrLozRj40">the nebula</a> are funneled by a strong
+<a href="http://www-spof.gsfc.nasa.gov/Education/whmfield.html">magnetic field</a>.  
+
+Bright spots in the
+<a href="http://adsabs.harvard.edu/abs/1987AJ.....93.1514Z">Horsehead Nebula</a>'s base are
+young stars just in the <a href="ap070218.html">process of forming</a>.  
+
+Light takes about 1,500 years to reach us from the
+<a href="ap090224.html">Horsehead Nebula</a>.  
+
+The
+<a href="http://www.noao.edu/image_gallery/html/im0057.html">above image</a> was taken with the
+<a href="http://www.noao.edu/0.9m/index.html">0.9-meter telescope</a> at
+<a href="http://www.noao.edu/kpno/kpno.html">Kitt Peak National Observatory</a>.
+
+
+</p>, 'title': u' The Horsehead Nebula '}, 'image/1209/spherulesmars_opportunity_1809.jpg': {'url': 'http://apod.nasa.gov/apod/ap120925.html', 'timestamp': u'2012 September 25 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/spherulesmars_opportunity_1809.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+Why are these strange little spheres on Mars?
+
+The robotic
+<a href="http://en.wikipedia.org/wiki/Opportunity_rover">rover Opportunity</a> chanced across 
+<a href="http://www.jpl.nasa.gov/news/news.php?release=2012-290">these unusually shaped beads</a> earlier this month while exploring a place named 
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA16128">Kirkwood</a> near the rim of Mars' 
+<a href="http://en.wikipedia.org/wiki/Endeavour_(crater)">Endeavour Crater</a>.
+
+The <a href="http://photojournal.jpl.nasa.gov/catalog/PIA16139">above image</a> taken by Opportunity's 
+<a href="http://marsrover.nasa.gov/mission/spacecraft_instru_mi.html">Microscopic Imager</a> shows that some ground near the rover is filled with these unusual spheres, each spanning only about 3 millimeters. 
+
+At first glance, the sometimes-fractured balls appear similar to the small rocks dubbed
+<a href="ap040405.html">blueberries</a> seen by Opportunity eight years ago, but these spheres are densely compacted and have little iron content.
+
+Although it is thought that
+<a href="http://www.popsci.com/technology/article/2012-09/plucky-mars-rover-opportunitys-newest-jackpot-should-steal-some-curiositys-limelight">these orbs</a> formed naturally, which natural processes formed them remain unknown.
+<a href="http://www.youtube.com/watch?v=Vj4e2FyNFIE">Opportunity</a>, an older sibling to the recently deployed
+<a href="ap120818.html">Curiosity rover</a>, will continue to study these spheres with the hope that they will provide a new clue to the ancient history of the surface of the
+<a href="http://en.wikipedia.org/wiki/Mars">red planet</a>.
+
+
+
+</p>, 'title': u' Unusual Spheres on Mars '}, 'image/1211/rigelwitch_andreo_big.jpg': {'url': 'http://apod.nasa.gov/apod/ap121101.html', 'timestamp': u'', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/rigelwitch_andreo_big.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://www.potw.org/archive/potw283.html">Double,
+double toil and trouble;</a>
+Fire burn, and cauldron bubble -- maybe
+<a href="http://the-tech.mit.edu/Shakespeare/macbeth/">Macbeth</a> should have consulted the Witch Head Nebula.
+
+The suggestively shaped
+<a href="reflection_nebulae.html">reflection nebula</a>
+is associated with the
+<a href="http://www.astro.uiuc.edu/~kaler/sow/rigel.html">bright
+star Rigel</a> in the <a href="ap120119.html">constellation Orion</a>.
+
+More formally known as
+<a href="http://en.wikipedia.org/wiki/IC_2118">IC 2118</a>,
+the Witch Head Nebula spans about 50 light-years and
+is composed of interstellar dust grains
+reflecting <a href="http://adsabs.harvard.edu/cgi-bin/
+nph-bib_query?bibcode=1997MNRAS.290..521I">Rigel's</a>
+starlight.
+
+<a href="http://blog.deepskycolors.com/archive/2009/11/16/
+witch-Head-Nebula-and-Rigel.html">In this cosmic portrait</a>,
+the blue color of the Witch Head Nebula and of the dust surrounding
+<a href="http://www.youtube.com/watch?v=c8CgDGhYKe8">Rigel</a>
+is caused not only by
+<a href="http://en.wikipedia.org/wiki/Rigel">Rigel</a>'s intense
+blue starlight but because the
+<a href="http://leo.astronomy.cz/mix/mix.html">dust grains scatter blue light</a> more efficiently than red.
+
+The same
+<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/atmos/blusky.html">physical process</a> causes
+<a href="http://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html">Earth's daytime sky to appear blue</a>, although the scatterers in
+<a href="http://csep10.phys.utk.edu/astr161/lect/earth/atmosphere.html">Earth's atmosphere</a> are molecules of
+nitrogen and oxygen.
+
+Rigel, the Witch Head Nebula, 
+and gas and dust that surrounds them lie about 800 <a href="http://starchild.gsfc.nasa.gov/docs/StarChild/questions/question19.html">light-years</a> away.
+
+</p>, 'title': u' Rigel and the Witch Head Nebula '}, 'image/1210/phobos3_hirise_3374.jpg': {'url': 'http://apod.nasa.gov/apod/ap121028.html', 'timestamp': u'2012 October 28 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/phobos3_hirise_3374.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+This moon is doomed.
+
+<a href="http://mars.jpl.nasa.gov/allaboutmars/extreme/">Mars</a>,
+the red planet named for the
+<a href="http://www.pantheon.org/articles/m/mars.html">Roman god of war</a>, has two tiny moons,
+<a href="http://en.wikipedia.org/wiki/Phobos_(moon)">Phobos</a> and
+<a href="http://en.wikipedia.org/wiki/Deimos_(moon)">Deimos</a>, whose
+names are derived from the Greek for Fear and
+<a href="http://en.wikipedia.org/wiki/Panic">Panic</a>.
+
+These <a href="ap031024.html">martian moons</a> may well be captured
+<a href="http://en.wikipedia.org/wiki/Asteroid">asteroids</a>
+originating in the main asteroid belt between Mars and
+<a href="http://www2.jpl.nasa.gov/galileo/jupiter/jupiter.html">Jupiter</a>
+or perhaps from even more distant reaches of the Solar System.
+
+The larger moon, <a href="ap030329.html">Phobos</a>, is indeed seen
+to be a cratered, asteroid-like object in this
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA10368">stunning color image</a> from the 
+<a href="http://mars.jpl.nasa.gov/mro/">Mars Reconnaissance Orbiter</a>,
+recorded at a resolution of about
+seven meters per pixel.
+
+But <a href="http://www.youtube.com/watch?v=IHDH7cKX_SA">Phobos</a> 
+orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers
+for <a href="ap020504.html">our Moon</a> - that gravitational
+<a href="http://csep10.phys.utk.edu/astr161/lect/moon/tidal.html">tidal forces</a>
+are dragging it down.
+
+In 100 million years or so <a href="ap080410.html">Phobos</a>
+will likely be shattered by stress caused by the
+<a href="http://www.badastronomy.com/bad/misc/tides.html">relentless</a>
+tidal forces, the debris forming a decaying ring around Mars.
+
+
+</p>, 'title': u' Phobos: Doomed Moon of Mars '}, 'image/1210/meteorviolet_salomonsen_1200.jpg': {'url': 'http://apod.nasa.gov/apod/ap121005.html', 'timestamp': u'2012 October 5', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/meteorviolet_salomonsen_1200.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+What's happening behind that mountain?
+
+A convergence of variable sky spectacles.  
+
+One night in mid-September near
+<a href="http://en.wikipedia.org/wiki/Tromsø">Tromsø</a>,
+<a href="http://en.wikipedia.org/wiki/Norway">Norway</a>, 
+high red aurora could be seen shimmering through lower green aurora 
+in a way that created a striking and somewhat unusual violet glow.
+
+Suddenly, though, the sky flashed with the
+<a href="ap081125.html">brightest fireball</a> the 
+astrophotographer had ever seen, as a small pebble from outer space
+violently crashed into the
+<a href="http://www.ucar.edu/learn/1_1_1.htm">Earth's atmosphere</a>.
+
+The glow illuminated the distant mountain peak known as 
+<a href="http://fi.wikipedia.org/wiki/Otertinden">Otertinden</a> of the 
+<a href="http://en.wikipedia.org/wiki/Lyngen_Alps">Lyngen Alps</a>.
+
+The bright
+<a href="http://www.amsmeteors.org/meteor-showers/meteor-faq/">meteor</a>, which coincidently disappeared behind the same mountain,
+was also reflected in the foreground Signalelva River. 
+
+Although you might consider yourself lucky to see 
+either an aurora or a bright meteor, pictures of them together
+<a href="ap091219.html">have</a>
+<a href="ap100920.html">been</a>
+<a href="ap080107.html">recorded</a>
+<a href="ap071009.html">several</a>
+<a href="ap030809.html">times</a>
+<a href="ap120209.html">previously</a>.
+
+</p>, 'title': u' Aurora and Fireball Over Norway '}, 'image/1209/Analemma2012M_polzl.jpg': {'url': 'http://apod.nasa.gov/apod/ap120922.html', 'timestamp': u'2012 September 22', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/Analemma2012M_polzl.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Today, the
+<a href="http://www.phy6.org/stargaze/Sseason.htm">Sun crosses</a>
+the celestial equator heading south at 14:49 Universal Time.
+
+An equinox (equal night), this astronomical event marks the
+first day of autumn in the northern hemisphere and spring in the south.
+
+With the Sun on the celestial equator, Earth
+dwellers will experience
+<a href="http://www.usno.navy.mil/USNO/astronomical-applications/
+astronomical-information-center/equinoxes">nearly</a>
+12 hours of daylight and 12 hours of darkness. 
+
+To celebrate, consider
+<a href="http://astrofotos.at/
+index.php?view=category&amp;catid=9&amp;option=com_joomgallery&amp;Itemid=134">this
+careful record</a> of the Sun's yearly journey
+through southern Austrian skies.
+
+<a href="http://astrofotos.at/
+index.php?view=detail&amp;id=405&amp;option=com_joomgallery&amp;Itemid=134">The
+scene</a> is composed of images made at the same time each day,
+capturing the Sun's position on dates from
+<a href="http://astrofotos.at/
+index.php?view=detail&amp;id=406&amp;option=com_joomgallery&amp;Itemid=134">September
+29, 2011 through September 9, 2012</a>.
+
+The multiple suns trace an intersecting curve
+<a href="http://www.astronomycorner.net/games/analemma.html">known as
+an analemma</a>.
+
+In fact, the past year's two equinox dates correspond to the middle
+(not the intersection point)
+<a href="http://en.wikipedia.org/wiki/File:Analemma_Earth.png">of
+the curve</a>.
+
+The summer and winter solstices are at the top and bottom.
+
+Of course, many would also consider it a good idea
+to travel the mountain road toward the left,
+passing the vineyards along the way to reach the nearby town of
+<a href="http://en.wikipedia.org/wiki/Kitzeck_im_Sausal">Kitzeck</a>
+and toast the equinox with a glass of wine.
+
+Near the roadside bench is a
+<a href="http://www.youtube.com/watch?v=DWbXKgNYjRE">windmill-like
+klapotetz</a>,
+traditionally used in this wine-growing region to keep the birds away.
+
+</p>, 'title': u' Austrian Analemma '}, 'image/1210/Helix_BiColour_Finalpugh.jpg': {'url': 'http://apod.nasa.gov/apod/ap121004.html', 'timestamp': u'2012 October 4', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/Helix_BiColour_Finalpugh.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+A mere seven hundred light years from Earth, in the constellation
+<a href="http://hawastsoc.org/deepsky/aqr/index.html">Aquarius</a>,
+a sun-like star is dying.
+
+Its last few thousand years have produced the
+<a href="http://www.seds.org/messier/xtra/ngc/n7293.html">Helix
+Nebula</a> (NGC 7293), a well studied and nearby example of a
+<a href="http://en.wikipedia.org/wiki/Planetary_nebula">Planetary
+Nebula</a>,
+typical of this final phase of stellar evolution. 
+
+A total of 58 hours of exposure time have gone in to creating this
+deep view of the nebula.
+
+Accumulating narrow band data from emission lines of hydrogen atoms in
+red and oxygen atoms in blue-green hues,
+it shows remarkable <a href="ap080413.html">details</a> of the
+Helix's brighter <a href="ap030510.html">inner region</a>, about 3
+light-years across, but also follows fainter
+<a href="ap120831.html">outer halo</a>
+features that give the nebula a span of well over six light-years.
+
+The white dot at the Helix's center is this Planetary Nebula's hot,
+<a href="http://hubblesite.org/newscenter/archive/releases/1997/38/
+background/#background-info-1">central star</a>.
+
+A simple looking  nebula at <a href="ap091231.html">first glance</a>,
+the Helix is now understood to have a surprisingly
+<a href="http://hubblesite.org/newscenter/archive/releases/2004/
+32/image/e/">complex geometry</a>.
+
+</p>, 'title': u' NGC 7293: The Helix Nebula '}, 'image/1212/M33-Subaru-Gendler-LL.jpg': {'url': 'http://apod.nasa.gov/apod/ap121220.html', 'timestamp': u'2012 December 20', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/M33-Subaru-Gendler-LL.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+The small, northern constellation
+<a href="http://www.hawastsoc.org/deepsky/tri/index.html">Triangulum</a>
+harbors this magnificent face-on spiral galaxy, M33.
+
+Its popular names include the Pinwheel Galaxy or just
+the <a href="http://www.seds.org/messier/m/m033.html">Triangulum
+Galaxy</a>.
+
+M33 is over 50,000 light-years in diameter, third largest in the
+<a href="http://atlasoftheuniverse.com/localgr.html">Local
+Group</a> of galaxies after the Andromeda Galaxy (M31), and our
+own Milky Way.
+
+About 3 million light-years from the Milky Way,
+M33 is itself thought to be a satellite of the
+<a href="ap021021.html">Andromeda Galaxy</a> and
+<a href="http://arxiv.org/abs/astro-ph?papernum=0506609">astronomers</a>
+in these two galaxies would likely have spectacular views of
+each other's grand spiral star systems.
+
+As for the view from planet Earth,
+<a href="http://www.robgendlerastropics.com/M33-Subaru-Gendler.html">this
+sharp composite image, a 25 panel mosaic,</a>
+nicely shows off M33's blue star clusters
+and pinkish <a href="ap091017.html">star forming</a> regions that
+trace the galaxy's loosely wound spiral arms.
+
+In fact, the <a href="ap121211.html">cavernous NGC 604</a> is the
+brightest star forming region, seen here at about the 1 o'clock position
+from the galaxy center.
+
+Like M31, M33's population of well-measured variable stars
+have helped make this nearby spiral a
+<a href="http://cfa-www.harvard.edu/~kstanek/DIRECT/">cosmic
+yardstick</a> for
+<a href="http://adsabs.harvard.edu/cgi-bin/
+bib_query?1926ApJ....63..236H">establishing</a>
+the distance <a href="http://antwrp.gsfc.nasa.gov/diamond_jubilee/
+debate96.html">scale</a> of the Universe.
+
+</p>, 'title': u' M33: Triangulum Galaxy '}, 'image/1211/Mel15cancellimortfield.jpg': {'url': 'http://apod.nasa.gov/apod/ap121109.html', 'timestamp': u'2012 November 9', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/Mel15cancellimortfield.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap080715.html">Cosmic clouds</a> seem to form
+<a href="ap100716.html">fantastic shapes</a> in
+the central regions of emission nebula IC 1805.
+
+Of course, the clouds are sculpted
+by stellar winds and radiation from massive hot stars in the nebula's
+<a href="http://chandra.harvard.edu/edu/formal/stellar_ev/
+story/index9.html">newborn</a> star cluster,
+<a href="http://deepskypedia.com/wiki/
+The_Melotte_Catalogue_of_Star_Clusters">Melotte</a> 15.
+
+About 1.5 million years young,
+the cluster stars are toward the right in this
+<a href="http://www.astrogarage.com/Site/Default.aspx">colorful skyscape</a>,
+along with dark <a href="http://hubblesite.org/newscenter/newsdesk/archive/
+releases/2006/13/">dust clouds</a> in
+silhouette against glowing
+<a href="ap071102.html">atomic gas</a>.
+
+A composite of narrow and broad band telescopic images, the
+view spans about 30 light-years and includes emission
+from hydrogen in green, sulfur in red, and oxygen in blue hues.
+
+<a href="ap090214.html">Wider field</a> images
+reveal that IC 1805's simpler,
+overall outline suggests its popular name -
+<a href="http://www.atlasoftheuniverse.com/nebulae/ic1805.html">The
+Heart Nebula</a>.
+
+IC 1805 is located about 7,500 light years away toward the
+constellation <a href="http://www.astropix.com/HTML/A_FALL/
+CASS_O.HTM">Cassiopeia</a>.
+
+</p>, 'title': u' Melotte 15 in the Heart '}, 'image/1212/Lawrence_3aMercurycomposite.jpg': {'url': 'http://apod.nasa.gov/apod/ap121201.html', 'timestamp': u'2012 December 1', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/Lawrence_3aMercurycomposite.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://solarsystem.nasa.gov/planets/
+profile.cfm?Object=Mercury">Innermost planet Mercury</a>
+would probably not be a good location for an
+<a href="ap050224.html">interplanetary winter olympics</a>.
+
+But new results based on data from the
+<a href="http://messenger.jhuapl.edu/gallery/sciencePhotos/
+image.php?gallery_id=2&amp;image_id=1019">Mercury orbiting</a>
+MESSENGER spacecraft indicate that
+<a href="http://www.nasa.gov/mission_pages/messenger/media/
+PressConf20121129.html">it does have substantial water ice</a>
+in permanently shadowed regions within
+craters near its north pole.
+
+The possibility of ice on Mercury has been entertained for
+years, inspired by the discovery of radar bright, hence
+highly reflective, regions near the north pole.
+
+<a href="http://messenger.jhuapl.edu/gallery/sciencePhotos/
+image.php?page=1&amp;gallery_id=2&amp;image_id=1024">Highlighted in
+yellow in this map</a> based on projected
+<a href="ap111008.html">MESSENGER images</a>,
+radar bright regions are seen to correspond
+with floors and walls of north polar impact craters.
+
+Farther from the pole the regions are concentrated
+on the north facing crater walls.
+
+MESSENGER's
+<a href="http://messenger.jhuapl.edu/gallery/sciencePhotos/
+image.php?page=1&amp;gallery_id=2&amp;image_id=1023">neutron</a>
+<a href="http://messenger.jhuapl.edu/gallery/sciencePhotos/
+image.php?page=1&amp;gallery_id=2&amp;image_id=1035">spectroscopy</a> and
+<a href="http://messenger.jhuapl.edu/gallery/sciencePhotos/
+image.php?page=2&amp;gallery_id=2&amp;image_id=1034">thermal models</a> for the
+craters indicate material in these regions has a hydrogen content
+consistent with nearly pure water ice and is
+trapped in an area with temperatures that remain below
+100 <a href="http://lamar.colostate.edu/~hillger/temps.htm">kelvins</a>
+(-280 deg.F, -173 deg.C).
+
+In circumstances similar to permanent shadows in craters
+<a href="ap091118.html">of the Moon</a>,
+debris from comet impacts is thought to be the source of
+<a href="http://www.skyandtelescope.com/community/skyblog/newsblog/
+Mercurys-Polar-Ice-Defies-the-Odds-181444201.html">ice on Mercury</a>.
+
+</p>, 'title': u' Northern Mercury '}, 'image/1212/PIA14934_saturn.jpg': {'url': 'http://apod.nasa.gov/apod/ap121222.html', 'timestamp': u'2012 December 22', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/PIA14934_saturn.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://www.nasa.gov/mission_pages/cassini/whycassini/
+cassini20121218.html">Splendors seldom seen</a>
+are revealed in this glorious picture from
+Saturn's shadow.
+
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA14934">Imaged
+by Cassini</a> on October 17, 2012 during its 174th orbit,
+the ringed planet's night side is viewed
+from a perspective 19 degrees below the ring plane at a distance
+of about 800,000 kilometers with the Sun almost directly behind
+the planet.
+
+A 60 frame mosaic, images made with infrared, red, and violet filters
+were combined to create an enhanced, false-color view.
+
+Strongly backlit, the rings look bright away from the planet
+but dark in silhouette against the gas giant.
+
+Above center, they reflect a faint, eerie light on the cloud tops while
+<a href="ap070306.html">Saturn casts</a> its own dark shadow on the rings.
+
+<a href="ap110904.html">A similar Cassini</a> image from 2006 also
+featured planet Earth as a pale blue dot in the distance.
+
+Instead, this scene includes icy moons
+<a href="ap120208.html">Enceladus</a> (closer to the rings) and
+<a href="ap091208.html">Tethys</a> below the rings on the left. 
+
+</p>, 'title': u' Saturn at Night '}, 'image/1212/lunararcs_caxete_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121203.html', 'timestamp': u'2012 December 3 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/lunararcs_caxete_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Sometimes falling ice crystals make the atmosphere into a 
+giant lens causing arcs and halos to appear around the Sun or Moon.
+
+This past Saturday night was just such a time near
+<a href="http://en.wikipedia.org/wiki/Madrid">Madrid</a>,
+<a href="http://en.wikipedia.org/wiki/Spain">Spain</a>,
+where a winter sky displayed not only a bright Moon but
+as many as four rare lunar halos.
+ 
+The brightest object, near the top of the <a href="http://www.flickr.com/photos/danicaxete/8237507462/in/photostream">above image</a>, is the Moon.
+
+Light from the Moon
+<a href="http://www.atoptics.co.uk/halo/circ1.htm">refracts</a> through tumbling 
+hexagonal ice crystals into a
+<a href="ap081207.html">22 degree halo</a>
+seen surrounding the Moon.
+
+Elongating the 22 degree arc horizontally is a 
+<a href="http://www.atoptics.co.uk/halo/circum.htm">circumscribed halo</a> caused by 
+<a href="http://www.atoptics.co.uk/halo/orcol.htm">column ice crystals</a>.
+
+More rare, some moonlight refracts through more distant tumbling ice crystals to form a (third)
+rainbow-like arc 46 degrees from the Moon and <a href="http://www.flickr.com/photos/danicaxete/8236435325/in/photostream">appearing here</a> 
+just above a picturesque winter landscape.
+
+Furthermore, part of a whole 
+<a href="http://www.atoptics.co.uk/halo/46hal.htm">46 degree circular halo</a> 
+is also visible, so that an extremely rare -- especially for the Moon -- 
+<i> <a href="image/1212/lunararcs_caxete_labelled.jpg">quadruple halo</a> </i> 
+was actually imaged.
+
+The snow-capped trees in the foreground line the road
+<a href="http://www.youtube.com/watch?v=nYkLLjDWtfk">Puerto de Navacerrada</a> in the 
+<a href="http://en.wikipedia.org/wiki/Sierra_de_Guadarrama">Sierra de Guadarrama</a> mountain range near Madrid.
+
+Far in the background is a famous winter skyscape that includes
+<a href="http://stars.astro.illinois.edu/sow/sirius.html">Sirius</a>, the
+<a href="ap110121.html">belt of Orion</a>, and
+<a href="ap100106.html">Betelgeuse</a> all visible between the inner and outer arcs.
+
+Halos and arcs typically last for minutes to hours, 
+so if you do see one there should be time to invite family, friends or neighbors to
+<a href="ap050913.html">share</a> your unusual lensed vista of the sky.
+
+
+</p>, 'title': u' A Quadruple Lunar Halo Over Spain '}, 'image/1210/NGC2623_HLApugh.jpg': {'url': 'http://apod.nasa.gov/apod/ap121019.html', 'timestamp': u'2012 October 19', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/NGC2623_HLApugh.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://www.spacetelescope.org/videos/heic0912a/">NGC 2623 is</a>
+really two galaxies that are becoming one.
+
+Seen to be in the final stages of a
+<a href="http://burro.cwru.edu/JavaLab/GalCrashWeb/">titanic galaxy
+merger</a>, the pair lies some 300 million light-years distant
+toward the constellation Cancer.
+
+The violent encounter between two galaxies that may have
+been similar <a href="ap120604.html">to the Milky Way</a>
+has produced widespread star formation
+near a luminous core and along
+<a href="ap110429.html">eye-catching tidal tails</a>.
+
+Filled with dust, gas, and young blue star clusters,
+the opposing tidal tails extend well over 50,000 light-years
+from the merged nucleus.
+
+Likely triggered by the merger, accretion by a
+supermassive black hole drives activity within the nuclear region.
+
+The star formation and its
+<a href="http://en.wikipedia.org/wiki/Active_galactic_nucleus">active
+galactic nucleus</a> make
+<a href="http://cdsads.u-strasbg.fr/cgi-bin/
+nph-bib_query?2008ApJ...675L..69E&amp;db_key=AST&amp;nosetcookie=1">NGC 2623</a>
+bright across the spectrum.
+
+This sharp cosmic snapshot of NGC 2623 (aka Arp 243) is
+based on Hubble Legacy Archive image data that also reveals
+<a href="ap121014.html">even more distant</a>
+background galaxies scattered through the field of view.
+
+</p>, 'title': u' Merging NGC 2623 '}, 'image/1210/VDB152_LRGB_leshin.jpg': {'url': 'http://apod.nasa.gov/apod/ap121031.html', 'timestamp': u'', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/VDB152_LRGB_leshin.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Described as a "dusty curtain" or
+"<a href="ap111031.html">ghostly</a> apparition",
+mysterious reflection nebula VdB 152 really is very faint.
+
+Far from your neighborhood on this
+<a href="http://lcweb2.loc.gov/ammem/today/oct31.html">Halloween
+Night</a>, the cosmic phantom is nearly 1,400 light-years away.
+
+Also catalogued as Ced 201, it lies along the
+<a href="http://arxiv.org/abs/0809.4761">northern Milky Way</a>
+in the royal constellation
+<a href="http://hawastsoc.org/deepsky/cep/index.html">Cepheus</a>.
+
+Near the edge of a large molecular cloud,
+pockets of interstellar dust in the region block light from
+background stars or scatter light from the embedded bright star
+giving parts of
+<a href="http://en.wikipedia.org/wiki/Reflection_nebula">the nebula</a>
+a characteristic blue <a href="ap051229.html">color</a>.
+
+Ultraviolet light from the star is also
+<a href="http://cdsads.u-strasbg.fr/cgi-bin/
+nph-bib_query?1985ApJ...294..225W&amp;db_key=AST&amp;nosetcookie=1">thought</a>
+to cause a dim reddish
+<a href="http://en.wikipedia.org/wiki/Photoluminescence">luminescence</a>
+in the nebular dust.
+
+Though stars do form in
+<a href="http://coolcosmos.ipac.caltech.edu/cosmic_classroom/
+cosmic_reference/molecular_clouds.html">molecular clouds</a>, this star
+seems to have only accidentally wandered
+into the area, as its measured velocity through
+space is very different from the cloud's velocity.
+
+This <a href="http://sleshin.startlogic.com/stargazergallery/
+main.php?g2_itemId=255">deep telescopic image</a>
+of the region spans about 7 light-years.
+
+</p>, 'title': u' VdB 152: A Ghost in Cepheus '}, 'image/1209/tethysrings_cassini_1005.jpg': {'url': 'http://apod.nasa.gov/apod/ap120916.html', 'timestamp': u'2012 September 16 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/tethysrings_cassini_1005.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+How old are Saturn's rings?  
+
+No one is quite sure. 
+
+One possibility is that the rings formed relatively recently in our
+Solar System's history, perhaps only about 100 million years ago when
+a moon-sized object 
+<a href="http://en.wikipedia.org/wiki/Roche_limit">broke up</a> near Saturn.  
+
+Evidence for a young ring age includes a basic 
+<a href="http://adsabs.harvard.edu/abs/2007AJ....133..656V">stability
+analysis for rings</a>, 
+and the fact that the rings are so bright and
+relatively unaffected by numerous small dark 
+<a href="ap011118.html">meteor</a> impacts.  
+
+<a href="http://www.jpl.nasa.gov/news/news.cfm?release=2007-149">More recent 
+evidence</a>, however, raises the possibility that some of 
+<a href="http://en.wikipedia.org/wiki/Saturn%27s_rings">Saturn's rings</a> 
+may be billions of years old and so almost as 
+<a href="http://en.wikipedia.org/wiki/Jeanne_Calment">old</a> as Saturn itself.   
+
+Inspection of images by the Saturn-orbiting Cassini spacecraft
+indicates that some of 
+<a href="ap040723.html">Saturn's ring</a> particles temporarily
+bunch and collide, effectively recycling 
+<a href="ap071024.html">ring</a> particles by bringing
+fresh bright ices to the surface.  
+
+<a href="http://photojournal.jpl.nasa.gov/catalog/PIA09788">Seen here</a>, 
+Saturn's rings were imaged in their true colors by the 
+<a href="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">robotic
+Cassini</a> in late October.  
+
+Icy bright <a href="ap070909.html">Tethys</a>, 
+a moon of Saturn likely brightened by a sandblasting 
+<a href="ap071013.html">rain of ice</a> from sister moon 
+<a href="ap060310.html">Enceladus</a>, is visible in front of
+the darker rings.  
+
+
+</p>, 'title': u' Saturn: Bright Tethys and Ancient Rings '}, 'image/1212/saturnvortex_cassini_1024.jpg': {'url': 'http://apod.nasa.gov/apod/ap121204.html', 'timestamp': u'2012 December 4 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/saturnvortex_cassini_1024.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+What's happening at the north pole of Saturn?
+
+A <a href="https://www.youtube.com/watch?v=Y6HpgyTVRYY">vortex</a> 
+of strange and complex swirling clouds. 
+
+The center of this vortex was 
+<a href="http://saturn.jpl.nasa.gov/news/cassinifeatures/feature20121128/">imaged in unprecedented detail</a> last week by the robotic 
+<a href="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens#Spacecraft_design">Cassini spacecraft</a> orbiting Saturn. 
+
+These clouds lie at the center of the unusual 
+<a href="ap120122.html">hexagonal cloud system</a> that surrounds the north pole of Saturn.
+
+The sun rose on Saturn's north pole just a few years ago, 
+with Cassini taking only 
+<a href="ap070403.html">infrared images</a> of the shadowed region previously. 
+
+The <a href="http://saturn.jpl.nasa.gov/photos/raw/rawimagedetails/index.cfm?imageID=273997">above image</a> is raw and 
+<a href="http://saturn.jpl.nasa.gov/photos/raw/index.cfm?start=6&amp;storedQ=2508993">unprocessed</a> 
+and is being prepared for release in 2013.
+
+Several 
+<a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/11272100-saturn-south-pole-raw.html">similar images</a> of the region have recently been condensed into a 
+<a href="http://www.planetary.org/blogs/emily-lakdawalla/2012/saturn-north-pole-animation.html">movie</a>.
+
+Planetary scientists are sure to continue to study this most 
+<a href="http://www.universetoday.com/98667/incredible-raw-image-of-saturns-swirling-north-pole/">unusual cloud formation</a> for quite some time.
+
+</p>, 'title': u" In the Center of Saturn's North Polar Vortex "}, 'image/1211/meteorfalls_legault_881.jpg': {'url': 'http://apod.nasa.gov/apod/ap121112.html', 'timestamp': u'2012 November 12 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/meteorfalls_legault_881.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Which feature takes your breath away first in this encompassing panorama of land and sky?
+
+The competition is strong with a waterfall, meteor, starfield, and even a 
+<a href="ap111114.html">moonbow</a> all vying for attention.
+
+It is interesting to first note, though, what  can't  be seen -- a rising moon on the other side of the camera. 
+
+The bright moon not only illuminated 
+<a href="http://asterisk.apod.com/viewtopic.php?f=29&amp;t=29661#p184718">this beautiful landscape</a> in 
+<a href="http://en.wikipedia.org/wiki/Queensland">Queensland</a>, 
+<a href="http://en.wikipedia.org/wiki/Australia">Australia</a> 
+last June, but also created the beautiful 
+<a href="http://www.youtube.com/watch?v=_68ytOYnTvs">moonbow</a> 
+seen in front of 
+<a href="http://en.wikipedia.org/wiki/Wallaman_Falls">Wallaman Falls</a>.
+
+Just above the ridge in the 
+<a href="http://legault.perso.sfr.fr/australian_nights.html">above image</a> 
+is the horizontal streak of an airplane.
+
+Toward the top of 
+<a href="http://blogs.discovermagazine.com/badastronomy/2012/10/21/moonbow-milky-way-meteor/">the frame</a> is the downward streak of a 
+<a href="ap081125.html">bright meteor</a>, 
+a small pebble from across our Solar System that 
+lit up as it entered the Earth's atmosphere.
+
+Well behind the meteor are numerous bright stars and nebula seen toward the 
+<a href="ap100831.html">center of our Galaxy</a>.
+
+Finally, far in the background, is the band of our 
+<a href="http://casswww.ucsd.edu/archive/public/tutorial/MW.html">Milky Way Galaxy</a>, 
+running diagonally from the lower left to the upper right in the image but also 
+<a href="ap110221.html">circling</a> the entire sky.
+
+
+</p>, 'title': u' Meteor and Moonbow over Wallaman Falls '}, 'image/1211/Cherney_EllisBeachDiamondRing3.jpg': {'url': 'http://apod.nasa.gov/apod/ap121117.html', 'timestamp': u'2012 November 17', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/Cherney_EllisBeachDiamondRing3.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap121115.html">A dark Sun</a>
+hung over Queensland, Australia on Wednesday morning
+during a much anticipated
+<a href="http://eclipse.gsfc.nasa.gov/SEmono/TSE2012/
+TSE2012.html">total solar eclipse</a>.
+
+Storm clouds threatened to spoil the
+view along the northern coast, but minutes before
+totality the clouds parted.
+
+Streaming past the Moon's edge, the last direct rays
+of sunlight produced a gorgeous
+<a href="ap060330.html">diamond ring effect</a> in this scene
+from Ellis Beach between Cairns and Port Douglas.
+
+Winking out in a moment, the
+diamond didn't last forever though.
+
+The area was <a href="http://asterisk.apod.com/
+viewtopic.php?f=29&amp;t=30001#p187531">plunged into darkness</a>
+for nearly 2 minutes as the
+<a href="http://www.atscope.com.au/BRO/gallery207.html">Moon's shadow</a>
+swept off shore toward Australia's
+<a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=1337">Great
+Barrier Reef</a> and out into the southern Pacific.
+
+Ranging from 1/4000 to 1/15 seconds long, five separate exposures
+were blended in the image to create a presentation similar
+to the <a href="http://www.youtube.com/watch?v=MxJIM2EJ0KY">breathtaking
+visual experience</a> of the eclipse. 
+
+</p>, 'title': u' Like a Diamond in the Sky '}, 'image/1210/ngc7497mbm54torregrosa.jpg': {'url': 'http://apod.nasa.gov/apod/ap121013.html', 'timestamp': u'2012 October 13', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/ngc7497mbm54torregrosa.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Spiky stars and spooky shapes abound in
+<a href="http://icueva.wordpress.com/2012/10/08/
+ngc-7497-mbm-54-nubes-moleculares-sobre-campos-de-galaxias/">this
+deep cosmic skyscape</a>.
+
+Its well-composed field of view covers
+about 2 Full Moons on the
+<a href="ap120928.html">sky toward the constellation Pegasus</a>.
+
+Of course the brighter stars show diffraction spikes, the commonly
+seen effect of internal
+<a href="http://www.telescope-optics.net/spider.htm">supports
+in reflecting telescopes</a>, and lie
+well within our own Milky Way galaxy.
+
+The faint but pervasive clouds of interstellar dust
+ride above the galactic plane and dimly reflect the
+<a href="http://www.galaxyimages.com/UNP_IFNebula.html">Milky Way's
+combined starlight</a>.
+
+Known as high latitude cirrus or integrated flux nebulae they are
+associated with molecular clouds.
+
+In this case, the diffuse cloud cataloged as
+<a href="http://adsabs.harvard.edu/abs/1989ApJ...346..232W">MBM 54</a>,
+less than a thousand light-years distant, fills the scene.
+
+Other galaxies far beyond the Milky Way are visible through the
+ghostly apparitions, including the striking spiral galaxy NGC 7497
+some 60 million light-years away.
+
+Seen almost <a href="ap120526.html">edge-on</a>
+near the center of the field,
+NGC 7497's own spiral arms and dust lanes echo the colors of the
+<a href="ap110520.html">Milky Way's stars and dust</a>.
+
+</p>, 'title': u' Galaxies, Stars, and Dust '}, 'image/1211/tse2012C3shadowbands_StephenMudge.jpg': {'url': 'http://apod.nasa.gov/apod/ap121121.html', 'timestamp': u'2012 November 21', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/tse2012C3shadowbands_StephenMudge.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+As the total phase of
+<a href="http://www.eclipsecairns.com/">last week's solar eclipse</a>
+came to an end, sunlight streaming past the edge of the Moon
+created the fleeting appearance of a glistening
+diamond ring <a href="ap121117.html">in the sky</a>.
+
+And while most
+<a href="http://asterisk.apod.com/
+viewtopic.php?f=29&amp;t=30001#p187731">eclipse watchers</a>
+did not consider clouds a welcome sight,
+a view through thin clouds north of Cairns in Queensland, Australia
+also revealed these remarkable flickering 
+<a href="http://www.alpo-astronomy.org/eclipse/observeeclipses/
+chapter7.htm">shadow bands</a>.
+
+Projected onto the cloud layer, the bands are parallel
+to the sliver of emerging sunlight.
+
+Caused by <a href="ap000725.html">turbulence in</a>
+Earth's atmosphere refracting the sliver of sunlight,
+the narrow bands were captured
+in this brief, 1/1000th second exposure.
+
+</p>, 'title': u' Diamond Ring and Shadow Bands '}, 'image/1212/dnb_land_ocean_ice.2012.3600x1800.jpg': {'url': 'http://apod.nasa.gov/apod/ap121207.html', 'timestamp': u'2012 December 7', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/dnb_land_ocean_ice.2012.3600x1800.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+This remarkably complete
+<a href="http://earthobservatory.nasa.gov/NaturalHazards/
+view.php?id=79765">view of Earth at night</a> is a composite
+of cloud-free, nighttime images.
+
+The images were collected during April and October 2012
+by the Suomi-NPP satellite from polar orbit about 824 kilometers
+(512 miles) above the surface using
+its Visible Infrared Imaging Radiometer Suite
+(<a href="http://npp.gsfc.nasa.gov/viirs.html">VIIRS</a>).
+
+VIIRS offers greatly improved resolution and sensitivity compared to
+<a href="ap081005.html">past global nightlight</a> detecting instrumentation
+on DMSP satellites.
+
+It also has advantages
+<a href="ap120829.html">compared to cameras</a> on the International
+Space Station.
+
+While the space station passes over the same point on Earth
+every two or three days, Suomi-NPP passes
+over the same point twice a day at about 1:30am and 1:30pm
+local time.
+
+<a href="http://earthobservatory.nasa.gov/Features/IntotheBlack/
+page4.php">Easy to recognize here</a>,
+city lights identify major population centers,
+tracking the effects of human activity and influence across the globe.
+
+That makes
+<a href="http://earthobservatory.nasa.gov/Features/NightLights/">nighttime
+images of our fair planet</a> among the most interesting
+and important
+<a href="http://www.nasa.gov/mission_pages/NPP/news/
+earth-at-night.html">views from space</a>.
+
+</p>, 'title': u' Earth at Night '}, 'image/1211/ngc6357a_hst_1280.jpg': {'url': 'http://apod.nasa.gov/apod/ap121118.html', 'timestamp': u'2012 November 18 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/ngc6357a_hst_1280.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+How massive can a normal star be?  
+
+Estimates made from distance, brightness and standard 
+
+<a href="http://spiff.rit.edu/classes/phys230/lectures/star_age/star_age.html">solar models</a> had given one star in the 
+<a href="open_clusters.html">open cluster</a> Pismis 24 
+over 200 times the mass of our Sun, nearly making it the record holder.  
+
+This star is the brightest object located just above the gas front in the 
+<a href="http://www.spacetelescope.org/news/html/heic0619.html">above image</a>.  
+
+Close inspection of images taken with the 
+<a href="ap010806.html">Hubble Space Telescope</a>, 
+however, have shown that Pismis 24-1 derives its 
+brilliant luminosity 
+<a href="http://www.spacetelescope.org/images/html/heic0619b.html">not from a single star</a> but from 
+<a href="http://adsabs.harvard.edu/abs/2007ApJ...660.1480M">three at least</a>.  
+
+Component stars would still remain near 100 solar masses, 
+making them among the more 
+<a href="http://en.wikipedia.org/wiki/List_of_most_massive_stars">massive stars</a> currently on record.  
+
+Toward the bottom of the image, stars are still forming in the associated 
+<a href="emission_nebulae.html">emission nebula</a>
+<a href="ap081009.html">NGC 6357</a>.
+
+Appearing perhaps like a <a href="http://upload.wikimedia.org/wikipedia/commons/6/65/Catedral_Metropolitana_de_Sao_Paulo_1_Brasil-edit-01.jpg">Gothic cathedral</a>, energetic stars near the center
+appear to be breaking out and illuminating a 
+<a href="ap060507.html">spectacular cocoon</a>.
+
+
+</p>, 'title': u' NGC 6357: Cathedral to Massive Stars '}, 'image/1211/TSE2012PhilHart_6999_1600px.jpg': {'url': 'http://apod.nasa.gov/apod/ap121115.html', 'timestamp': u'2012 November 15', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/TSE2012PhilHart_6999_1600px.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+This month's New Moon brought a
+<a href="http://www.mreclipse.com/Special/SEprimer.html">total
+solar eclipse</a> to parts of planet Earth
+<a href="http://eclipse.gsfc.nasa.gov/OH/
+OH2012.html#SE2012Nov13T">on November 13 (UT)</a>.
+
+Most of the total eclipse track fell across the southern Pacific,
+but the Moon's dark umbral shadow began its
+<a href="http://www.youtube.com/watch?v=Hn5nKlMY5cI">journey
+in northern Australia</a> on Wednesday morning, local time. 
+
+From along the track,
+<a href="http://philhart.com/content/
+solar-eclipse-queensland-14th-november-2012">this telescopic snapshot</a>
+captures the Moon's silhouette
+in skies over Queensland along the Mulligan highway west of Port Douglas.
+
+<i>Almost</i> completely covered, the Sun's disk is seen
+still surrounded by a hint of the
+<a href="ap100721.html">faint solar corona</a>.
+
+Planet-sized prominences stretch above the active Sun's edge.
+
+Sunlight streaming
+through gaps in the rugged profile of the lunar limb
+creates the brilliant but fleeting
+<a href="ap080818.html">Baily's Beads</a>.
+
+</p>, 'title': u' Solar Eclipse over Queensland '}, 'image/1212/westarcapture_sts51a_640.jpg': {'url': 'http://apod.nasa.gov/apod/ap121209.html', 'timestamp': u'2012 December 9 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/westarcapture_sts51a_640.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+In 1984, high above the Earth's surface, an astronaut captured a satellite.
+
+It was the second satellite captured that mission.
+
+<a href="http://commons.wikimedia.org/wiki/File:STS-51-A_Westar_6_retrieval.jpg">Pictured above</a>, astronaut
+<a href="http://www.jsc.nasa.gov/Bios/htmlbios/gardner-da.html">Dale A. Gardner</a>
+<a href="ap090927.html">flies free</a> using the
+Manned Maneuvering Unit and begins to
+<a href="http://www.youtube.com/watch?v=VR6jlWBeHvY">attach a control device</a> dubbed the Stinger to the rotating 
+<a href="http://www.americaspace.org/?p=27134">Westar 6</a> satellite.  
+
+Communications satellite
+<a href="http://en.wikipedia.org/wiki/Westar">Westar</a> 
+6 had suffered a rocket malfunction that left it unable to reach its intended high
+<a href="http://en.wikipedia.org/wiki/Geosynchronous_orbit">geosynchronous</a> orbit.
+
+Both the previously caught
+<a href="http://en.wikipedia.org/wiki/Palapa_B2">Palapa B-2</a>
+satellite and the
+<a href="http://www.fogonazos.es/2009/12/is-this-man-bravest-astronaut-ever.html">Westar 6 satellite</a> were guided into the cargo bay of the
+<a href="http://en.wikipedia.org/wiki/STS-51-A">Space Shuttle Discovery</a>
+and returned to Earth.
+
+<a href="http://space.jpl.nasa.gov/msl/Programs/westar.html">Westar 6</a>
+was subsequently refurbished and
+<a href="http://images.jsc.nasa.gov/luceneweb/fullimage.jsp?from_month=1&amp;from_day=1&amp;from_year=1900&amp;to_month=12&amp;to_day=31&amp;to_year=3000&amp;datesearch=Go&amp;pageno=989&amp;captionpage=true&amp;photoId=STS51A-104-050&amp;hitsperpage=5">sold</a>.
+
+
+</p>, 'title': u' The Astronaut Who Captured a Satellite '}, 'image/1210/nausetlight_startrails_cookphoto.jpg': {'url': 'http://apod.nasa.gov/apod/ap121010.html', 'timestamp': u'2012 October 10', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/nausetlight_startrails_cookphoto.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="http://www.pantheon.org/articles/a/atlas.html">In myth,
+Atlas</a> holds up the heavens, but in this scene they
+seem to pivot around a lighthouse beacon.
+
+Photographed with a camera fixed to a tripod, the well-planned
+image, a composite of
+<a href="http://www.abmedia.com/astro/current/
+nausetlight-startrails.html">30 one minute exposures</a>,
+records star trails in the northern sky,
+reflecting the daily <a href="ap070519.html">rotation of planet Earth</a>.
+
+Hidden behind the top of the prominent Nauset Lighthouse
+on Cape Cod, Massachusetts, USA, the
+<a href="ap120712.html">North Celestial Pole</a> is at
+the center of all the star trail arcs.
+
+<a href="ap120802.html">Making a complete circle</a>,
+360 degrees, in 24 hours,
+the star trail arcs cover 15 degrees each hour
+or 7.5 degrees in thirty minutes.
+
+Foreground lighting is courtesy of September 23rd's first quarter
+moonlight.
+
+</p>, 'title': u' Nauset Light Star Trails '}, 'image/1210/eso1241bAlphaCenBb.jpg': {'url': 'http://apod.nasa.gov/apod/ap121018.html', 'timestamp': u'2012 October 18', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/eso1241bAlphaCenBb.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+<a href="ap110703.html">Located just next door</a>,
+Alpha Centauri is the closest star system to the Sun.
+
+A view from our
+<a href="http://www.nature.com/news/
+the-exoplanet-next-door-1.11605">interstellar neighbor</a>
+a mere 4.3 light-years away is shown in this illustration.
+
+<a href="http://www.eso.org/public/videos/eso1241a/">The Sun is at</a>
+the upper right, a bright star against the background of the Milky Way.
+
+The crescent in the foreground is an artist's rendering of a planet
+<a href="http://www.eso.org/public/news/eso1241/">now reported orbiting</a>
+Alpha Centauri B, making it the closest
+<a href="http://exoplanet.eu/">known exoplanet</a>.
+
+Discovered by astronomer
+<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/
+nature11572.html">Xavier Dumusque et al.</a> using the
+<a href="ap120202.html">planet hunting HARPS</a>
+instrument to measure minute shifts in the star's spectrum for
+more than four years, the planet has approximately the same mass as Earth.
+
+But it orbits once every 3.2 days, about 0.04 times the Earth-Sun distance
+from its parent star.
+
+That puts it well outside
+<a href="ap101001.html">the habitable zone</a>,
+much too close to Alpha Cen B, a star only a little cooler
+than the Sun.
+
+Still, estimates indicate that planetary orbits would be stable
+within the habitable zone of Alpha Cen B, at about half the Earth-Sun
+distance ...
+
+</p>, 'title': u' A View from Next Door '}, 'image/1210/greyillusion_wikipedia_960.jpg': {'url': 'http://apod.nasa.gov/apod/ap121007.html', 'timestamp': u'2012 October 7 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/greyillusion_wikipedia_960.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Are square A and B the same color?  They are!
+
+To verify this, either run your cursor over the image or click
+<a href="image/0707/samecolor_wikipedia_connected.jpg">here</a>
+to see them connected.  
+
+The <a href="http://web.mit.edu/persci/people/adelson/checkershadow_description.html">above illusion</a>, called the
+<a href="http://en.wikipedia.org/wiki/Same_color_illusion">same color illusion</a>, illustrates that purely human observations in science may be
+<a href="http://www.quora.com/Optical-Illusions/What-are-some-great-optical-illusions">ambiguous</a> or inaccurate.  
+
+Even such a seemingly direct
+<a href="http://www.youtube.com/watch?v=y8U0YPHxiFQ">perception</a> as relative color.  
+
+Similar
+<a href="ap121003.html">illusions</a> exist on the
+<a href="https://www.facebook.com/APOD.Sky">sky</a>, such as the
+<a href="ap020130.html">size of the Moon near the horizon</a>,
+or the
+<a href="ap070305.html">apparent shapes of astronomical objects</a>.  
+
+The advent of automated, reproducible, measuring devices such as
+<a href="http://en.wikipedia.org/wiki/Charge-coupled_device">CCDs</a>
+have made science in general and astronomy in particular less prone to,
+but not free of,
+<a href="http://www.youtube.com/watch?v=w8Zz05t19dg">human-biased</a>
+<a href="http://www.michaelbach.de/ot/">illusions</a>. 
+
+
+</p>, 'title': u' The Same Color Illusion '}, 'image/1212/SGU-Castillo-Orion-IMG4323-1200x800.jpg': {'url': 'http://apod.nasa.gov/apod/ap121221.html', 'timestamp': u'2012 December 21', 'imageURL': 'http://apod.nasa.gov/apod/image/1212/SGU-Castillo-Orion-IMG4323-1200x800.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Welcome to the December
+<a href="ap120121.html">solstice</a>, a day
+<a href="http://www.nasa.gov/topics/earth/features/2012.html">the
+world does not end ...</a> even
+according to the Mayan Calendar.
+
+To celebrate, <a href="http://www.astrosurf.com/sguisard/Pagim/Chichen-Itza.html">consider
+this dramatic picture</a>
+of Orion rising
+<a href="http://www.exploratorium.edu/ancientobs/chichen/
+HTML/castillo.html">over El Castillo</a>, the central pyramid at
+Chichén Itzá, one of the great Mayan centers on the
+Yucatán peninsula.
+
+Also known as the Temple of Kukulkan it stands 30 meters tall
+and 55 meters wide at the base.
+
+Built up as a series of square terraces by the pre-Columbian
+civilization between the 9th and 12th century,
+the structure can be used as a calendar and is noted for
+<a href="http://www.exploratorium.edu/ancientobs/chichen/HTML/
+alignments.html">astronomical alignments</a>.
+
+In fact, the Mayans were accomplished astronomers and mathematicians,
+accurately using the cyclic motions of the stars,
+Sun, Moon, and planets to measure time and
+<a href="http://www.webexhibits.org/calendars/
+calendar-mayan.html">construct calendars</a>.
+
+Peering through clouds in this night skyscape,
+stars in the modern constellation Orion the Hunter
+represented a turtle in the Mayan sky.
+
+<a href="http://www.mostlymaya.com/IntroMayaLang.html">Tak
+sáamal.</a>
+</p>, 'title': u' Orion over El Castillo '}, 'image/1209/M60HST_large.jpg': {'url': 'http://apod.nasa.gov/apod/ap120914.html', 'timestamp': u'2012 September 14', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/M60HST_large.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+
+Giant elliptical galaxy M60 and spiral galaxy NGC 4647 do look like
+an odd couple in
+<a href="http://heritage.stsci.edu/2012/38/
+index.html">this sharp cosmic portrait</a>
+from the Hubble Space Telescope.
+
+But they are found in a region of space where galaxies tend to gather,
+on the eastern side of the nearby
+<a href="http://www.atlasoftheuniverse.com/galgrps/vir.html">Virgo Galaxy
+Cluster</a>.
+
+About 54 million light-years distant, bright M60's
+<a href="ap100520.html">simpler egg-like shape</a> is created by its
+randomly swarming older stars,
+while NGC 4647's young blue stars, gas and dust are organized into
+winding arms rotating in a flattened disk.
+
+Spiral NGC 4647 is
+<a href="http://hubblesite.org/newscenter/archive/releases/2012/38/
+fastfacts/">estimated to be more distant</a>
+than M60, some 63 million light-years away.
+
+Also known
+<a href="http://arxiv.org/abs/astro-ph/0609786">as Arp 116</a>,
+the pair of galaxies may be on the
+verge of a significant gravitational
+<a href="ap120604.html">encounter</a>, though.
+
+M60 (aka NGC 4649) is about 120,000 light-years across.
+
+The smaller NGC 4647 spans around 90,000 light-years, about the size
+<a href="ap080606.html">of our own Milky Way</a>.
+
+</p>, 'title': u' Elliptical M60, Spiral NGC 4647 '}, 'image/1211/rainierclouds_thompson_3008.jpg': {'url': 'http://apod.nasa.gov/apod/ap121104.html', 'timestamp': u'2012 November 4 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1211/rainierclouds_thompson_3008.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+Are those UFOs near that mountain?  
+
+No -- they are multilayered 
+<a href="http://www.crystalinks.com/lenticular.html">lenticular
+clouds</a>.
+
+Moist air forced to flow upward
+<a href="ap080416.html">around mountain tops</a>  can create
+<a href="http://en.wikipedia.org/wiki/Lenticular_Clouds">lenticular
+clouds</a>.
+
+Water droplets condense from moist air cooled below the 
+<a href="http://en.wikipedia.org/wiki/Dew_point">dew point</a>, and 
+<a href="http://en.wikipedia.org/wiki/Clouds">clouds</a> 
+are opaque groups of water droplets.
+
+Waves in the air that would normally be seen
+horizontally can then be seen vertically, by the 
+<a href="ap050821.html">different levels</a> where clouds form.  
+
+On some days the city of 
+<a href="http://en.wikipedia.org/wiki/Seattle">Seattle</a>,
+<a href="http://en.wikipedia.org/wiki/Washington_%28state%29">Washington</a>,
+<a href="http://en.wikipedia.org/wiki/United_States">USA</a>, is
+treated to an unusual sky show when lenticular clouds form near 
+<a href="http://en.wikipedia.org/wiki/Mt._Rainer">Mt. Rainier</a>, 
+a large mountain that looms just under 100 kilometers southeast of the
+city.
+
+<a href="http://www.komonews.com/weather/blog/35631614.html">This image</a>
+of a spectacular cluster of
+<a href="http://www.youtube.com/watch?v=uPW1vpBgHEo">lenticular
+clouds</a> was taken in 2008 December. 
+
+
+</p>, 'title': u' Lenticular Clouds Over Washington '}, 'image/1209/ngc6745_hst_755.jpg': {'url': 'http://apod.nasa.gov/apod/ap120930.html', 'timestamp': u'2012 September 30 ', 'imageURL': 'http://apod.nasa.gov/apod/image/1209/ngc6745_hst_755.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b>
+Galaxies don't normally look like this.  
+
+<a href="http://heritage.stsci.edu/2000/34/caption.html">NGC 6745</a> actually shows the results of 
+two galaxies that have been
+<a href="ap990722.html">colliding</a> for only 
+hundreds of millions of years.  
+
+Just off the 
+<a href="http://hubblesite.org/newscenter/archive/releases/2000/2000/34/image/a/">above digitally sharpened photograph</a> to the lower right is the smaller galaxy, 
+moving away.  
+
+The larger galaxy, 
+<a href="http://heritage.stsci.edu/2000/34/supplemental.html">pictured above</a>, used to be a 
+<a href="spiral_galaxies.html">spiral galaxy</a> 
+but now is damaged and appears 
+<a href="ap980315.html">peculiar</a>. 
+
+Gravity has <a href="https://www.youtube.com/watch?v=lXy3B2K47Qg">distorted</a> the shapes of the galaxies.  
+
+Although it is likely that no stars in the two 
+<a href="ap061024.html">galaxies directly collided</a>, the gas, 
+<a href="ap030706.html">dust</a>, and ambient 
+<a href="http://www-spof.gsfc.nasa.gov/Education/Imagnet.html">magnetic fields</a> do interact directly.
+
+In fact, a <a href="http://birrell.org/andrew/knotwork/">knot</a> of gas pulled off the larger galaxy 
+on the lower right has now begun to form stars.  
+
+<a href="http://en.wikipedia.org/wiki/NGC_6745">NGC 6745</a> 
+spans about 80 thousand light-years across and is located about 200 million 
+<a href="http://www.howstuffworks.com/question94.htm">light-years</a> away.
+
+</p>, 'title': u' A Galaxy Collision in NGC 6745 '}, 'image/1210/abell39_block_1200.jpg': {'url': 'http://apod.nasa.gov/apod/ap121008.html', 'timestamp': u'2012 October 8', 'imageURL': 'http://apod.nasa.gov/apod/image/1210/abell39_block_1200.jpg', 'descriptionHTML': <p>
+<b> Explanation: </b> 
+
+Ghostly in appearance,
+<a href="http://www.noao.edu/image_gallery/html/im0636.html">Abell 39</a>
+is a remarkably simple, spherical nebula about
+five light-years across.
+
+Well within our own
+<a href="http://www.atlasoftheuniverse.com/galaxy.html">Milky Way</a> galaxy, the cosmic
+<a href="http://math.rice.edu/~pcmi/sphere/">sphere</a>
+is roughly 7,000 light-years distant toward the constellation
+Hercules.
+
+<a href="http://en.wikipedia.org/wiki/Abell_39">Abell 39</a> 
+is a <a href="ap030614.html">planetary nebula</a>, formed as a
+once sun-like star's outer atmosphere was expelled
+over a period of thousands of years.
+
+Still visible, the nebula's central star
+is evolving into a hot 
+<a href="ap100221.html">white dwarf</a>.
+
+Although faint, the nebula's simple 
+<a href="https://www.youtube.com/watch?v=R_w4HYXuo9M">geometry has
+proven</a> to be
+<a href="http://www.noao.edu/outreach/press/pr01/pr0102.html">a boon</a>
+to
+<a href="http://adsabs.harvard.edu/abs/2000AAS...197.0616J">astronomers</a>
+exploring the chemical abundances and
+<a href="http://imagine.gsfc.nasa.gov/docs/teachers/lifecycles/
+stars.html">life cycles</a> of stars.
+
+In
+<a href="http://skycenter.arizona.edu/gallery/nebulae/Abell39">this deep image</a>
+recorded under dark night skies, very distant
+<a href="http://www.noao.edu/outreach/aop/observers/
+bggalaxies.html">background</a>
+galaxies can be found --
+some visible right through the nebula itself.
+
+</p>, 'title': u' Spherical Planetary Nebula Abell 39 '}}
